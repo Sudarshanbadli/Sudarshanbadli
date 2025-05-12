@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀Hello! I'm Sudarshan, an Computer science student passionate about coding and design. <br>
+🚀Hello! I'm Sudarshan Badli, a Computer science student passionate about coding and design. I've 1+ year experience in coding and more programming languages and Know about many Ai tools and their works. <br>
 
 
 ## 🌐 Socials:
