@@ -1,0 +1,2370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 6158.0" width="1400" height="6158.0" role="img" aria-label="My GitHub Tech Arsenal - a portfolio of programming languages, frameworks, tools and skills" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo5MWJhYmQ5Zi01YWEwLTQ1NGUtODZiOS1hNGU1YjNiNmY5ZWUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaMEUPRRd1t+sU9ijR1zQ3nkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo4NTA3ZTNmOS0yNDdiLTQwZDctYmQ2My02YWRiNTlkMmFkODZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNocO8fIvvMzWU/bGrYMVYtsgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggm8LHRfP25pLKzVLc2VWCvlDlFXzeF89HY3aOZ7ks5zOkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaG4x7sGG6Ow6fgy5UzDqrI0AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIBrTe6q/XSI+0a3qHNTQsnUv7J6x4lwI7PT9MKsYKrQ9ZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQFJZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjkxYmFiZDlmLTVhYTAtNDU0ZS04NmI5LWE0ZTViM2I2ZjllZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjZlY2Q1NjdhLThiZTctNGRjZS1hN2E5LTQzY2M0OTg3ODA0NnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCbwsdF8/bmksrNUtzZVYK+UOUVfN4Xz0djdo5nuSznM6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggPHbPslR/EXNgTf4lHewjIIDrEWtcv5+e7XtfC9wJz9KiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggcbcXVKNbvjkqc5hnA3r8ZKPI1FKAGgChZQCk4YtrlaZ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQEDWQjyHTa68+Uwj9ShjHf3tFFF7sLlblwpTuf2dyEbJNQns0s4A5oycEhOAT2EFwPTKsgMpTNwixZqS4e0zpuA=</c2pa:manifest></metadata>
+  <title>My GitHub Tech Arsenal</title>
+
+  <defs>
+    <linearGradient id="heroGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1230"/>
+      <stop offset="45%" stop-color="#151244"/>
+      <stop offset="100%" stop-color="#2A1250"/>
+    </linearGradient>
+    <linearGradient id="techGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+    <linearGradient id="arsenalGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="50%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="pageBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F7F8FC"/>
+      <stop offset="100%" stop-color="#EEF1FA"/>
+    </linearGradient>
+  </defs>
+
+<rect x="0" y="0" width="1400" height="6158.0" fill="url(#pageBg)"/>
+
+  <rect x="0" y="0" width="1400" height="380" fill="url(#heroGrad)"/>
+  <circle cx="180" cy="90" r="200" fill="url(#glow1)"/>
+  <circle cx="1150" cy="230" r="220" fill="url(#glow2)"/>
+  <g fill="#FFFFFF" fill-opacity="0.35">
+    <circle cx="90" cy="40" r="2"/><circle cx="260" cy="70" r="1.6"/><circle cx="1300" cy="50" r="2"/>
+    <circle cx="1230" cy="130" r="1.6"/><circle cx="60" cy="240" r="1.8"/><circle cx="1340" cy="300" r="2"/>
+    <circle cx="720" cy="30" r="1.6"/><circle cx="980" cy="60" r="1.4"/>
+  </g>
+  <circle cx="98" cy="98" r="62" fill="#FFFFFF" fill-opacity="0.08" stroke="url(#techGrad)" stroke-width="2" stroke-opacity="0.7"/>
+  <path d="M98 62c-20 0-36 16-36 36 0 16 10.4 29.6 24.9 34.4 1.8.3 2.5-.8 2.5-1.8v-6.8c-10.1 2.2-12.3-4.3-12.3-4.3-1.6-4.2-4-5.3-4-5.3-3.3-2.2.3-2.2.3-2.2 3.6.3 5.5 3.7 5.5 3.7 3.2 5.5 8.5 3.9 10.6 3 .3-2.3 1.3-3.9 2.3-4.8-8-.9-16.5-4-16.5-17.9 0-3.9 1.4-7.2 3.7-9.7-.4-.9-1.6-4.6.4-9.6 0 0 3-1 9.9 3.7a34 34 0 0 1 18 0c6.9-4.7 9.9-3.7 9.9-3.7 2 5 .8 8.7.4 9.6 2.3 2.5 3.7 5.8 3.7 9.7 0 13.9-8.5 17-16.6 17.9 1.3 1.1 2.5 3.4 2.5 6.8v10.1c0 1 .7 2.1 2.5 1.8A36.06 36.06 0 0 0 134 98c0-20-16-36-36-36Z" fill="#FFFFFF" fill-opacity="0.9"/>
+  <text x="60" y="188" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="34" fill="#E9ECFB">My GitHub</text>
+  <text x="58" y="248" font-family="Verdana, Arial, sans-serif" font-size="78" font-weight="900" fill="url(#techGrad)">TECH</text>
+  <text x="330" y="248" font-family="Verdana, Arial, sans-serif" font-size="78" font-weight="900" fill="url(#arsenalGrad)">ARSENAL</text>
+  <text x="60" y="288" font-family="Verdana, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3" fill="#C7CCEE">CODE • BUILD • INNOVATE • CREATE • GROW</text>
+  <rect x="55" y="308" width="640" height="1" fill="#FFFFFF" fill-opacity="0.15"/>
+  <g transform="translate(1030,60)">
+    <rect x="0" y="60" width="230" height="150" rx="18" fill="#101735" stroke="#3B82F6" stroke-opacity="0.5" stroke-width="1.5"/>
+    <rect x="14" y="74" width="202" height="108" rx="6" fill="#0B1230"/>
+    <text x="24" y="96" font-family="monospace" font-size="11" fill="#22D3EE">&lt;/&gt; tech_arsenal</text>
+    <text x="24" y="114" font-family="monospace" font-size="10" fill="#A855F7">const skills =</text>
+    <text x="24" y="130" font-family="monospace" font-size="10" fill="#34D399">  [ "code", "build" ]</text>
+    <text x="24" y="146" font-family="monospace" font-size="10" fill="#F472B6">status: online_</text>
+    <rect x="0" y="210" width="230" height="14" rx="4" fill="#1B2350"/>
+    <circle cx="205" cy="196" r="8" fill="#22D3EE" fill-opacity="0.85"/>
+    <text x="205" y="200" text-anchor="middle" font-size="9" fill="#0B1230" font-weight="700">🐙</text>
+  </g>
+  <text x="812" y="46" font-family="Georgia, serif" font-style="italic" font-size="16" fill="#D8DBF6">Better Tools.</text>
+  <text x="812" y="68" font-family="Georgia, serif" font-style="italic" font-size="16" fill="#D8DBF6">Bigger Dreams.</text>
+
+
+  <g>
+    <defs>
+      <linearGradient id="grad01" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#2563EB"/>
+        <stop offset="100%" stop-color="#06B6D4"/>
+      </linearGradient>
+      <linearGradient id="grad01bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#2563EB" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#06B6D4" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="436.0" width="1308" height="258.0" rx="26"
+          fill="url(#grad01bg)"/>
+    <rect x="46" y="436.0" width="1308" height="258.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="436.0" width="1308" height="258.0" rx="26"
+          fill="none" stroke="url(#grad01)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="438.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="484.0" r="27" fill="url(#grad01)" fill-opacity="0.16"/>
+    <circle cx="102" cy="484.0" r="27" fill="none" stroke="url(#grad01)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="494.0" text-anchor="middle" font-size="26">💻</text>
+    <text x="146" y="480.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad01)">01</text>
+    <text x="146" y="506.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">Programming Languages</text>
+    <rect x="1204" y="462.0" width="110" height="32" rx="16"
+          fill="url(#grad01)" fill-opacity="0.14" stroke="url(#grad01)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="483.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad01)">10+ Tools</text>
+
+
+    <g>
+      <rect x="80.0" y="532.0" width="96.0" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad01)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="555.0" r="13.0" fill="url(#grad01)" fill-opacity="0.92"/>
+      <text x="109.0" y="560.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">C</text>
+      <text x="132.0" y="560.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">C</text>
+    </g>
+
+    <g>
+      <rect x="190.0" y="532.0" width="200.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad01)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="219.0" cy="555.0" r="13.0" fill="url(#grad01)" fill-opacity="0.92"/>
+      <text x="219.0" y="560.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">R</text>
+      <text x="242.0" y="560.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">R Programming</text>
+    </g>
+
+    <g>
+      <rect x="404.7" y="532.0" width="111.6" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad01)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="433.7" cy="555.0" r="13.0" fill="url(#grad01)" fill-opacity="0.92"/>
+      <text x="433.7" y="560.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">J</text>
+      <text x="456.7" y="560.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Java</text>
+    </g>
+
+    <g>
+      <rect x="530.3" y="532.0" width="131.4" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad01)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="559.3" cy="555.0" r="13.0" fill="url(#grad01)" fill-opacity="0.92"/>
+      <text x="559.3" y="560.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">P</text>
+      <text x="582.3" y="560.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Python</text>
+    </g>
+
+    <g>
+      <rect x="675.7" y="532.0" width="171.0" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad01)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="704.7" cy="555.0" r="13.0" fill="url(#grad01)" fill-opacity="0.92"/>
+      <text x="704.7" y="560.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">J</text>
+      <text x="727.7" y="560.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">JavaScript</text>
+    </g>
+
+    <g>
+      <rect x="860.7" y="532.0" width="171.0" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad01)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="889.7" cy="555.0" r="13.0" fill="url(#grad01)" fill-opacity="0.92"/>
+      <text x="889.7" y="560.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">T</text>
+      <text x="912.7" y="560.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">TypeScript</text>
+    </g>
+
+    <g>
+      <rect x="1045.7" y="532.0" width="101.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad01)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="1074.7" cy="555.0" r="13.0" fill="url(#grad01)" fill-opacity="0.92"/>
+      <text x="1074.7" y="560.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">P</text>
+      <text x="1097.7" y="560.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">PHP</text>
+    </g>
+
+    <g>
+      <rect x="1161.4" y="532.0" width="101.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad01)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="1190.4" cy="555.0" r="13.0" fill="url(#grad01)" fill-opacity="0.92"/>
+      <text x="1190.4" y="560.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">S</text>
+      <text x="1213.4" y="560.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">SQL</text>
+    </g>
+
+    <g>
+      <rect x="80.0" y="592.0" width="121.5" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad01)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="615.0" r="13.0" fill="url(#grad01)" fill-opacity="0.92"/>
+      <text x="109.0" y="620.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">H</text>
+      <text x="132.0" y="620.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">HTML5</text>
+    </g>
+
+    <g>
+      <rect x="215.5" y="592.0" width="111.6" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad01)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="244.5" cy="615.0" r="13.0" fill="url(#grad01)" fill-opacity="0.92"/>
+      <text x="244.5" y="620.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">C</text>
+      <text x="267.5" y="620.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">CSS3</text>
+    </g>
+
+    <line x1="80" y1="656.0" x2="1320" y2="656.0" stroke="url(#grad01)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="672.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad01)">LEARN • CODE • CREATE</text>
+  </g>
+
+  <g>
+    <defs>
+      <linearGradient id="grad02" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#06B6D4"/>
+        <stop offset="100%" stop-color="#3B82F6"/>
+      </linearGradient>
+      <linearGradient id="grad02bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="734.0" width="1308" height="258.0" rx="26"
+          fill="url(#grad02bg)"/>
+    <rect x="46" y="734.0" width="1308" height="258.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="734.0" width="1308" height="258.0" rx="26"
+          fill="none" stroke="url(#grad02)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="736.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="782.0" r="27" fill="url(#grad02)" fill-opacity="0.16"/>
+    <circle cx="102" cy="782.0" r="27" fill="none" stroke="url(#grad02)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="792.0" text-anchor="middle" font-size="26">🌐</text>
+    <text x="146" y="778.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad02)">02</text>
+    <text x="146" y="804.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">Frontend Development</text>
+    <rect x="1204" y="760.0" width="110" height="32" rx="16"
+          fill="url(#grad02)" fill-opacity="0.14" stroke="url(#grad02)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="781.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad02)">10+ Tools</text>
+
+
+    <g>
+      <rect x="80.0" y="830.0" width="121.5" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad02)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="853.0" r="13.0" fill="url(#grad02)" fill-opacity="0.92"/>
+      <text x="109.0" y="858.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">H</text>
+      <text x="132.0" y="858.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">HTML5</text>
+    </g>
+
+    <g>
+      <rect x="215.5" y="830.0" width="111.6" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad02)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="244.5" cy="853.0" r="13.0" fill="url(#grad02)" fill-opacity="0.92"/>
+      <text x="244.5" y="858.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">C</text>
+      <text x="267.5" y="858.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">CSS3</text>
+    </g>
+
+    <g>
+      <rect x="341.1" y="830.0" width="171.0" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad02)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="370.1" cy="853.0" r="13.0" fill="url(#grad02)" fill-opacity="0.92"/>
+      <text x="370.1" y="858.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">J</text>
+      <text x="393.1" y="858.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">JavaScript</text>
+    </g>
+
+    <g>
+      <rect x="526.1" y="830.0" width="151.2" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad02)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="555.1" cy="853.0" r="13.0" fill="url(#grad02)" fill-opacity="0.92"/>
+      <text x="555.1" y="858.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">R</text>
+      <text x="578.1" y="858.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">React.js</text>
+    </g>
+
+    <g>
+      <rect x="691.3" y="830.0" width="190.8" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad02)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="720.3" cy="853.0" r="13.0" fill="url(#grad02)" fill-opacity="0.92"/>
+      <text x="720.3" y="858.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">T</text>
+      <text x="743.3" y="858.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Tailwind CSS</text>
+    </g>
+
+    <g>
+      <rect x="896.1" y="830.0" width="161.1" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad02)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="925.1" cy="853.0" r="13.0" fill="url(#grad02)" fill-opacity="0.92"/>
+      <text x="925.1" y="858.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">B</text>
+      <text x="948.1" y="858.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Bootstrap</text>
+    </g>
+
+    <g>
+      <rect x="1071.2" y="830.0" width="200.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad02)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="1100.2" cy="853.0" r="13.0" fill="url(#grad02)" fill-opacity="0.92"/>
+      <text x="1100.2" y="858.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">F</text>
+      <text x="1123.2" y="858.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Framer Motion</text>
+    </g>
+
+    <g>
+      <rect x="80.0" y="890.0" width="111.6" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad02)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="913.0" r="13.0" fill="url(#grad02)" fill-opacity="0.92"/>
+      <text x="109.0" y="918.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="132.0" y="918.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">GSAP</text>
+    </g>
+
+    <g>
+      <rect x="205.6" y="890.0" width="279.9" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad02)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="234.6" cy="913.0" r="13.0" fill="url(#grad02)" fill-opacity="0.92"/>
+      <text x="234.6" y="918.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">R</text>
+      <text x="257.6" y="918.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Responsive Web Design</text>
+    </g>
+
+    <g>
+      <rect x="499.5" y="890.0" width="230.4" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad02)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="528.5" cy="913.0" r="13.0" fill="url(#grad02)" fill-opacity="0.92"/>
+      <text x="528.5" y="918.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="551.5" y="918.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Glassmorphism UI</text>
+    </g>
+
+    <line x1="80" y1="954.0" x2="1320" y2="954.0" stroke="url(#grad02)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="970.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad02)">MODERN • FAST • BEAUTIFUL</text>
+  </g>
+
+  <g>
+    <defs>
+      <linearGradient id="grad03" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#059669"/>
+        <stop offset="100%" stop-color="#10B981"/>
+      </linearGradient>
+      <linearGradient id="grad03bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#059669" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#10B981" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="1032.0" width="1308" height="258.0" rx="26"
+          fill="url(#grad03bg)"/>
+    <rect x="46" y="1032.0" width="1308" height="258.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="1032.0" width="1308" height="258.0" rx="26"
+          fill="none" stroke="url(#grad03)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="1034.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="1080.0" r="27" fill="url(#grad03)" fill-opacity="0.16"/>
+    <circle cx="102" cy="1080.0" r="27" fill="none" stroke="url(#grad03)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="1090.0" text-anchor="middle" font-size="26">⚙</text>
+    <text x="146" y="1076.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad03)">03</text>
+    <text x="146" y="1102.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">Backend Development</text>
+    <rect x="1204" y="1058.0" width="110" height="32" rx="16"
+          fill="url(#grad03)" fill-opacity="0.14" stroke="url(#grad03)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="1079.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad03)">8+ Tools</text>
+
+
+    <g>
+      <rect x="80.0" y="1128.0" width="101.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad03)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="1151.0" r="13.0" fill="url(#grad03)" fill-opacity="0.92"/>
+      <text x="109.0" y="1156.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">P</text>
+      <text x="132.0" y="1156.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">PHP</text>
+    </g>
+
+    <g>
+      <rect x="195.7" y="1128.0" width="141.3" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad03)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="224.7" cy="1151.0" r="13.0" fill="url(#grad03)" fill-opacity="0.92"/>
+      <text x="224.7" y="1156.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">N</text>
+      <text x="247.7" y="1156.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Node.js</text>
+    </g>
+
+    <g>
+      <rect x="351.0" y="1128.0" width="171.0" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad03)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="380.0" cy="1151.0" r="13.0" fill="url(#grad03)" fill-opacity="0.92"/>
+      <text x="380.0" y="1156.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">E</text>
+      <text x="403.0" y="1156.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Express.js</text>
+    </g>
+
+    <g>
+      <rect x="536.0" y="1128.0" width="161.1" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad03)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="565.0" cy="1151.0" r="13.0" fill="url(#grad03)" fill-opacity="0.92"/>
+      <text x="565.0" y="1156.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">R</text>
+      <text x="588.0" y="1156.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">REST APIs</text>
+    </g>
+
+    <g>
+      <rect x="711.1" y="1128.0" width="210.6" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad03)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="740.1" cy="1151.0" r="13.0" fill="url(#grad03)" fill-opacity="0.92"/>
+      <text x="740.1" y="1156.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">A</text>
+      <text x="763.1" y="1156.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Authentication</text>
+    </g>
+
+    <g>
+      <rect x="935.7" y="1128.0" width="200.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad03)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="964.7" cy="1151.0" r="13.0" fill="url(#grad03)" fill-opacity="0.92"/>
+      <text x="964.7" y="1156.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">A</text>
+      <text x="987.7" y="1156.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Authorization</text>
+    </g>
+
+    <g>
+      <rect x="80.0" y="1188.0" width="220.5" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad03)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="1211.0" r="13.0" fill="url(#grad03)" fill-opacity="0.92"/>
+      <text x="109.0" y="1216.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">C</text>
+      <text x="132.0" y="1216.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">CRUD Operations</text>
+    </g>
+
+    <g>
+      <rect x="314.5" y="1188.0" width="250.2" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad03)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="343.5" cy="1211.0" r="13.0" fill="url(#grad03)" fill-opacity="0.92"/>
+      <text x="343.5" y="1216.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">S</text>
+      <text x="366.5" y="1216.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Session Management</text>
+    </g>
+
+    <line x1="80" y1="1252.0" x2="1320" y2="1252.0" stroke="url(#grad03)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="1268.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad03)">BUILD • SECURE • SCALE</text>
+  </g>
+
+  <g>
+    <defs>
+      <linearGradient id="grad04" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#6366F1"/>
+        <stop offset="100%" stop-color="#8B5CF6"/>
+      </linearGradient>
+      <linearGradient id="grad04bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#6366F1" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="1330.0" width="1308" height="198.0" rx="26"
+          fill="url(#grad04bg)"/>
+    <rect x="46" y="1330.0" width="1308" height="198.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="1330.0" width="1308" height="198.0" rx="26"
+          fill="none" stroke="url(#grad04)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="1332.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="1378.0" r="27" fill="url(#grad04)" fill-opacity="0.16"/>
+    <circle cx="102" cy="1378.0" r="27" fill="none" stroke="url(#grad04)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="1388.0" text-anchor="middle" font-size="26">🗄</text>
+    <text x="146" y="1374.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad04)">04</text>
+    <text x="146" y="1400.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">Databases</text>
+    <rect x="1204" y="1356.0" width="110" height="32" rx="16"
+          fill="url(#grad04)" fill-opacity="0.14" stroke="url(#grad04)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="1377.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad04)">4+ Items</text>
+
+
+    <g>
+      <rect x="80.0" y="1426.0" width="121.5" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad04)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="1449.0" r="13.0" fill="url(#grad04)" fill-opacity="0.92"/>
+      <text x="109.0" y="1454.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">M</text>
+      <text x="132.0" y="1454.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">MySQL</text>
+    </g>
+
+    <g>
+      <rect x="215.5" y="1426.0" width="141.3" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad04)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="244.5" cy="1449.0" r="13.0" fill="url(#grad04)" fill-opacity="0.92"/>
+      <text x="244.5" y="1454.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">M</text>
+      <text x="267.5" y="1454.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">MariaDB</text>
+    </g>
+
+    <g>
+      <rect x="370.8" y="1426.0" width="200.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad04)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="399.8" cy="1449.0" r="13.0" fill="url(#grad04)" fill-opacity="0.92"/>
+      <text x="399.8" y="1454.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="422.8" y="1454.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Google Sheets</text>
+    </g>
+
+    <g>
+      <rect x="585.5" y="1426.0" width="230.4" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad04)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="614.5" cy="1449.0" r="13.0" fill="url(#grad04)" fill-opacity="0.92"/>
+      <text x="614.5" y="1454.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">F</text>
+      <text x="637.5" y="1454.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Firebase (Basic)</text>
+    </g>
+
+    <line x1="80" y1="1490.0" x2="1320" y2="1490.0" stroke="url(#grad04)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="1506.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad04)">STORE • MANAGE • GROW</text>
+  </g>
+
+  <g>
+    <defs>
+      <linearGradient id="grad05" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#EC4899"/>
+        <stop offset="100%" stop-color="#EF4444"/>
+      </linearGradient>
+      <linearGradient id="grad05bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#EC4899" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#EF4444" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="1568.0" width="1308" height="258.0" rx="26"
+          fill="url(#grad05bg)"/>
+    <rect x="46" y="1568.0" width="1308" height="258.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="1568.0" width="1308" height="258.0" rx="26"
+          fill="none" stroke="url(#grad05)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="1570.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="1616.0" r="27" fill="url(#grad05)" fill-opacity="0.16"/>
+    <circle cx="102" cy="1616.0" r="27" fill="none" stroke="url(#grad05)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="1626.0" text-anchor="middle" font-size="26">🔐</text>
+    <text x="146" y="1612.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad05)">05</text>
+    <text x="146" y="1638.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">Security</text>
+    <rect x="1204" y="1594.0" width="110" height="32" rx="16"
+          fill="url(#grad05)" fill-opacity="0.14" stroke="url(#grad05)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="1615.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad05)">6+ Items</text>
+
+
+    <g>
+      <rect x="80.0" y="1664.0" width="260.1" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad05)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="1687.0" r="13.0" fill="url(#grad05)" fill-opacity="0.92"/>
+      <text x="109.0" y="1692.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">U</text>
+      <text x="132.0" y="1692.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">User Authentication</text>
+    </g>
+
+    <g>
+      <rect x="354.1" y="1664.0" width="230.4" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad05)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="383.1" cy="1687.0" r="13.0" fill="url(#grad05)" fill-opacity="0.92"/>
+      <text x="383.1" y="1692.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">P</text>
+      <text x="406.1" y="1692.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Password Hashing</text>
+    </g>
+
+    <g>
+      <rect x="598.5" y="1664.0" width="141.3" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad05)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="627.5" cy="1687.0" r="13.0" fill="url(#grad05)" fill-opacity="0.92"/>
+      <text x="627.5" y="1692.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">C</text>
+      <text x="650.5" y="1692.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">CAPTCHA</text>
+    </g>
+
+    <g>
+      <rect x="753.8" y="1664.0" width="230.4" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad05)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="782.8" cy="1687.0" r="13.0" fill="url(#grad05)" fill-opacity="0.92"/>
+      <text x="782.8" y="1692.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">O</text>
+      <text x="805.8" y="1692.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">OTP Verification</text>
+    </g>
+
+    <g>
+      <rect x="998.2" y="1664.0" width="309.6" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad05)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="1027.2" cy="1687.0" r="13.0" fill="url(#grad05)" fill-opacity="0.92"/>
+      <text x="1027.2" y="1692.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">S</text>
+      <text x="1050.2" y="1692.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">SQL Injection Prevention</text>
+    </g>
+
+    <g>
+      <rect x="80.0" y="1724.0" width="220.5" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad05)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="1747.0" r="13.0" fill="url(#grad05)" fill-opacity="0.92"/>
+      <text x="109.0" y="1752.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">F</text>
+      <text x="132.0" y="1752.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Form Validation</text>
+    </g>
+
+    <line x1="80" y1="1788.0" x2="1320" y2="1788.0" stroke="url(#grad05)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="1804.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad05)">PROTECT • VERIFY • STAY SAFE</text>
+  </g>
+
+  <g>
+    <defs>
+      <linearGradient id="grad06" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#3B82F6"/>
+        <stop offset="100%" stop-color="#8B5CF6"/>
+      </linearGradient>
+      <linearGradient id="grad06bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="1866.0" width="1308" height="318.0" rx="26"
+          fill="url(#grad06bg)"/>
+    <rect x="46" y="1866.0" width="1308" height="318.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="1866.0" width="1308" height="318.0" rx="26"
+          fill="none" stroke="url(#grad06)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="1868.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="1914.0" r="27" fill="url(#grad06)" fill-opacity="0.16"/>
+    <circle cx="102" cy="1914.0" r="27" fill="none" stroke="url(#grad06)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="1924.0" text-anchor="middle" font-size="26">🛡</text>
+    <text x="146" y="1910.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad06)">06</text>
+    <text x="146" y="1936.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">Security &amp; OSINT Tools</text>
+    <rect x="1204" y="1892.0" width="110" height="32" rx="16"
+          fill="url(#grad06)" fill-opacity="0.14" stroke="url(#grad06)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="1913.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad06)">16+ Tools</text>
+
+
+    <g>
+      <rect x="80.0" y="1962.0" width="131.4" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad06)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="1985.0" r="13.0" fill="url(#grad06)" fill-opacity="0.92"/>
+      <text x="109.0" y="1990.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">S</text>
+      <text x="132.0" y="1990.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Seeker</text>
+    </g>
+
+    <g>
+      <rect x="225.4" y="1962.0" width="180.9" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad06)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="254.4" cy="1985.0" r="13.0" fill="url(#grad06)" fill-opacity="0.92"/>
+      <text x="254.4" y="1990.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">P</text>
+      <text x="277.4" y="1990.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">PhoneInfoga</text>
+    </g>
+
+    <g>
+      <rect x="420.3" y="1962.0" width="220.5" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad06)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="449.3" cy="1985.0" r="13.0" fill="url(#grad06)" fill-opacity="0.92"/>
+      <text x="449.3" y="1990.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">S</text>
+      <text x="472.3" y="1990.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Social Analyzer</text>
+    </g>
+
+    <g>
+      <rect x="654.8" y="1962.0" width="121.5" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad06)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="683.8" cy="1985.0" r="13.0" fill="url(#grad06)" fill-opacity="0.92"/>
+      <text x="683.8" y="1990.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">H</text>
+      <text x="706.8" y="1990.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Hound</text>
+    </g>
+
+    <g>
+      <rect x="790.3" y="1962.0" width="161.1" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad06)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="819.3" cy="1985.0" r="13.0" fill="url(#grad06)" fill-opacity="0.92"/>
+      <text x="819.3" y="1990.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">M</text>
+      <text x="842.3" y="1990.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Mr Holmes</text>
+    </g>
+
+    <g>
+      <rect x="965.4" y="1962.0" width="180.9" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad06)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="994.4" cy="1985.0" r="13.0" fill="url(#grad06)" fill-opacity="0.92"/>
+      <text x="994.4" y="1990.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">I</text>
+      <text x="1017.4" y="1990.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">IP Analyzer</text>
+    </g>
+
+    <g>
+      <rect x="80.0" y="2022.0" width="190.8" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad06)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="2045.0" r="13.0" fill="url(#grad06)" fill-opacity="0.92"/>
+      <text x="109.0" y="2050.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">T</text>
+      <text x="132.0" y="2050.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Th3Inspector</text>
+    </g>
+
+    <g>
+      <rect x="284.8" y="2022.0" width="190.8" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad06)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="313.8" cy="2045.0" r="13.0" fill="url(#grad06)" fill-opacity="0.92"/>
+      <text x="313.8" y="2050.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">P</text>
+      <text x="336.8" y="2050.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">PhantomDroid</text>
+    </g>
+
+    <g>
+      <rect x="489.6" y="2022.0" width="260.1" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad06)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="518.6" cy="2045.0" r="13.0" fill="url(#grad06)" fill-opacity="0.92"/>
+      <text x="518.6" y="2050.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">A</text>
+      <text x="541.6" y="2050.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">ALHacking Framework</text>
+    </g>
+
+    <g>
+      <rect x="763.7" y="2022.0" width="171.0" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad06)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="792.7" cy="2045.0" r="13.0" fill="url(#grad06)" fill-opacity="0.92"/>
+      <text x="792.7" y="2050.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="815.7" y="2050.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">GhostTrack</text>
+    </g>
+
+    <g>
+      <rect x="948.7" y="2022.0" width="180.9" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad06)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="977.7" cy="2045.0" r="13.0" fill="url(#grad06)" fill-opacity="0.92"/>
+      <text x="977.7" y="2050.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">I</text>
+      <text x="1000.7" y="2050.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">InstaXploit</text>
+    </g>
+
+    <g>
+      <rect x="80.0" y="2082.0" width="180.9" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad06)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="2105.0" r="13.0" fill="url(#grad06)" fill-opacity="0.92"/>
+      <text x="109.0" y="2110.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">P</text>
+      <text x="132.0" y="2110.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Phonextract</text>
+    </g>
+
+    <g>
+      <rect x="274.9" y="2082.0" width="270.0" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad06)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="303.9" cy="2105.0" r="13.0" fill="url(#grad06)" fill-opacity="0.92"/>
+      <text x="303.9" y="2110.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">N</text>
+      <text x="326.9" y="2110.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">NexPhisher (Lab Use)</text>
+    </g>
+
+    <g>
+      <rect x="558.9" y="2082.0" width="270.0" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad06)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="587.9" cy="2105.0" r="13.0" fill="url(#grad06)" fill-opacity="0.92"/>
+      <text x="587.9" y="2110.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">D</text>
+      <text x="610.9" y="2110.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Dark-Phish (Lab Use)</text>
+    </g>
+
+    <g>
+      <rect x="842.9" y="2082.0" width="151.2" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad06)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="871.9" cy="2105.0" r="13.0" fill="url(#grad06)" fill-opacity="0.92"/>
+      <text x="871.9" y="2110.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="894.9" y="2110.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">GEOVAULT</text>
+    </g>
+
+    <g>
+      <rect x="1008.1" y="2082.0" width="141.3" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad06)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="1037.1" cy="2105.0" r="13.0" fill="url(#grad06)" fill-opacity="0.92"/>
+      <text x="1037.1" y="2110.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">B</text>
+      <text x="1060.1" y="2110.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">BTSTORM</text>
+    </g>
+
+    <line x1="80" y1="2146.0" x2="1320" y2="2146.0" stroke="url(#grad06)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="2162.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad06)">RESEARCH • LEARN • LAB USE ONLY</text>
+  </g>
+
+  <g>
+    <defs>
+      <linearGradient id="grad07" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#06B6D4"/>
+        <stop offset="100%" stop-color="#A855F7"/>
+      </linearGradient>
+      <linearGradient id="grad07bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#A855F7" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="2224.0" width="1308" height="438.0" rx="26"
+          fill="url(#grad07bg)"/>
+    <rect x="46" y="2224.0" width="1308" height="438.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="2224.0" width="1308" height="438.0" rx="26"
+          fill="none" stroke="url(#grad07)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="2226.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="2272.0" r="27" fill="url(#grad07)" fill-opacity="0.16"/>
+    <circle cx="102" cy="2272.0" r="27" fill="none" stroke="url(#grad07)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="2282.0" text-anchor="middle" font-size="26">🤖</text>
+    <text x="146" y="2268.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad07)">07</text>
+    <text x="146" y="2294.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">AI Assistants &amp; LLMs</text>
+    <rect x="1204" y="2250.0" width="110" height="32" rx="16"
+          fill="url(#grad07)" fill-opacity="0.14" stroke="url(#grad07)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="2271.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad07)">31+ Tools</text>
+
+
+    <g>
+      <rect x="80.0" y="2320.0" width="141.3" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="2343.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="109.0" y="2348.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">C</text>
+      <text x="132.0" y="2348.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">ChatGPT</text>
+    </g>
+
+    <g>
+      <rect x="235.3" y="2320.0" width="200.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="264.3" cy="2343.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="264.3" y="2348.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="287.3" y="2348.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Google Gemini</text>
+    </g>
+
+    <g>
+      <rect x="450.0" y="2320.0" width="230.4" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="479.0" cy="2343.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="479.0" y="2348.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="502.0" y="2348.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Google AI Studio</text>
+    </g>
+
+    <g>
+      <rect x="694.4" y="2320.0" width="240.3" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="723.4" cy="2343.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="723.4" y="2348.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="746.4" y="2348.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Google Gemini CLI</text>
+    </g>
+
+    <g>
+      <rect x="948.7" y="2320.0" width="161.1" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="977.7" cy="2343.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="977.7" y="2348.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">C</text>
+      <text x="1000.7" y="2348.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Claude AI</text>
+    </g>
+
+    <g>
+      <rect x="1123.8" y="2320.0" width="180.9" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="1152.8" cy="2343.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="1152.8" y="2348.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">C</text>
+      <text x="1175.8" y="2348.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Claude Code</text>
+    </g>
+
+    <g>
+      <rect x="80.0" y="2380.0" width="180.9" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="2403.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="109.0" y="2408.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">D</text>
+      <text x="132.0" y="2408.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">DeepSeek AI</text>
+    </g>
+
+    <g>
+      <rect x="274.9" y="2380.0" width="141.3" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="303.9" cy="2403.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="303.9" y="2408.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">Q</text>
+      <text x="326.9" y="2408.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Qwen AI</text>
+    </g>
+
+    <g>
+      <rect x="430.2" y="2380.0" width="180.9" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="459.2" cy="2403.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="459.2" y="2408.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">Q</text>
+      <text x="482.2" y="2408.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Qwen Studio</text>
+    </g>
+
+    <g>
+      <rect x="625.1" y="2380.0" width="141.3" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="654.1" cy="2403.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="654.1" y="2408.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">K</text>
+      <text x="677.1" y="2408.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Kimi AI</text>
+    </g>
+
+    <g>
+      <rect x="780.4" y="2380.0" width="180.9" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="809.4" cy="2403.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="809.4" y="2408.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="832.4" y="2408.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Genspark AI</text>
+    </g>
+
+    <g>
+      <rect x="975.3" y="2380.0" width="141.3" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="1004.3" cy="2403.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="1004.3" y="2408.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="1027.3" y="2408.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Grok AI</text>
+    </g>
+
+    <g>
+      <rect x="80.0" y="2440.0" width="200.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="2463.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="109.0" y="2468.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">P</text>
+      <text x="132.0" y="2468.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Perplexity AI</text>
+    </g>
+
+    <g>
+      <rect x="294.7" y="2440.0" width="180.9" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="323.7" cy="2463.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="323.7" y="2468.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">B</text>
+      <text x="346.7" y="2468.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Blackbox AI</text>
+    </g>
+
+    <g>
+      <rect x="489.6" y="2440.0" width="151.2" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="518.6" cy="2463.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="518.6" y="2468.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">L</text>
+      <text x="541.6" y="2468.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">LM Arena</text>
+    </g>
+
+    <g>
+      <rect x="654.8" y="2440.0" width="190.8" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="683.8" cy="2463.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="683.8" y="2468.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">D</text>
+      <text x="706.8" y="2468.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Design Arena</text>
+    </g>
+
+    <g>
+      <rect x="859.6" y="2440.0" width="171.0" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="888.6" cy="2463.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="888.6" y="2468.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">N</text>
+      <text x="911.6" y="2468.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">NotebookLM</text>
+    </g>
+
+    <g>
+      <rect x="1044.6" y="2440.0" width="240.3" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="1073.6" cy="2463.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="1073.6" y="2468.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">M</text>
+      <text x="1096.6" y="2468.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Microsoft Copilot</text>
+    </g>
+
+    <g>
+      <rect x="80.0" y="2500.0" width="210.6" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="2523.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="109.0" y="2528.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="132.0" y="2528.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">GitHub Copilot</text>
+    </g>
+
+    <g>
+      <rect x="304.6" y="2500.0" width="161.1" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="333.6" cy="2523.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="333.6" y="2528.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">B</text>
+      <text x="356.6" y="2528.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Base44 AI</text>
+    </g>
+
+    <g>
+      <rect x="479.7" y="2500.0" width="161.1" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="508.7" cy="2523.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="508.7" y="2528.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">D</text>
+      <text x="531.7" y="2528.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Delulu AI</text>
+    </g>
+
+    <g>
+      <rect x="654.8" y="2500.0" width="200.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="683.8" cy="2523.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="683.8" y="2528.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="706.8" y="2528.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Google Stitch</text>
+    </g>
+
+    <g>
+      <rect x="869.5" y="2500.0" width="200.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="898.5" cy="2523.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="898.5" y="2528.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">H</text>
+      <text x="921.5" y="2528.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Higgsfield AI</text>
+    </g>
+
+    <g>
+      <rect x="1084.2" y="2500.0" width="161.1" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="1113.2" cy="2523.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="1113.2" y="2528.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">L</text>
+      <text x="1136.2" y="2528.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">LibreChat</text>
+    </g>
+
+    <g>
+      <rect x="80.0" y="2560.0" width="161.1" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="2583.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="109.0" y="2588.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">C</text>
+      <text x="132.0" y="2588.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Cursor AI</text>
+    </g>
+
+    <g>
+      <rect x="255.1" y="2560.0" width="111.6" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="284.1" cy="2583.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="284.1" y="2588.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">K</text>
+      <text x="307.1" y="2588.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Kiro</text>
+    </g>
+
+    <g>
+      <rect x="380.7" y="2560.0" width="151.2" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="409.7" cy="2583.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="409.7" y="2588.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">O</text>
+      <text x="432.7" y="2588.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">OpenCode</text>
+    </g>
+
+    <g>
+      <rect x="545.9" y="2560.0" width="121.5" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="574.9" cy="2583.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="574.9" y="2588.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">C</text>
+      <text x="597.9" y="2588.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Coder</text>
+    </g>
+
+    <g>
+      <rect x="681.4" y="2560.0" width="151.2" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="710.4" cy="2583.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="710.4" y="2588.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">T</text>
+      <text x="733.4" y="2588.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Trae IDE</text>
+    </g>
+
+    <g>
+      <rect x="846.6" y="2560.0" width="210.6" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="875.6" cy="2583.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="875.6" y="2588.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">A</text>
+      <text x="898.6" y="2588.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Antigravity AI</text>
+    </g>
+
+    <g>
+      <rect x="1071.2" y="2560.0" width="180.9" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad07)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="1100.2" cy="2583.0" r="13.0" fill="url(#grad07)" fill-opacity="0.92"/>
+      <text x="1100.2" y="2588.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="1123.2" y="2588.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Google Flow</text>
+    </g>
+
+    <line x1="80" y1="2624.0" x2="1320" y2="2624.0" stroke="url(#grad07)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="2640.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad07)">SMARTER AI • ENDLESS POSSIBILITIES</text>
+  </g>
+
+  <g>
+    <defs>
+      <linearGradient id="grad08" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#EC4899"/>
+        <stop offset="100%" stop-color="#A855F7"/>
+      </linearGradient>
+      <linearGradient id="grad08bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#EC4899" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#A855F7" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="2702.0" width="1308" height="258.0" rx="26"
+          fill="url(#grad08bg)"/>
+    <rect x="46" y="2702.0" width="1308" height="258.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="2702.0" width="1308" height="258.0" rx="26"
+          fill="none" stroke="url(#grad08)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="2704.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="2750.0" r="27" fill="url(#grad08)" fill-opacity="0.16"/>
+    <circle cx="102" cy="2750.0" r="27" fill="none" stroke="url(#grad08)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="2760.0" text-anchor="middle" font-size="26">🎨</text>
+    <text x="146" y="2746.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad08)">08</text>
+    <text x="146" y="2772.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">UI/UX &amp; Design</text>
+    <rect x="1204" y="2728.0" width="110" height="32" rx="16"
+          fill="url(#grad08)" fill-opacity="0.14" stroke="url(#grad08)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="2749.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad08)">9+ Tools</text>
+
+
+    <g>
+      <rect x="80.0" y="2798.0" width="121.5" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad08)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="2821.0" r="13.0" fill="url(#grad08)" fill-opacity="0.92"/>
+      <text x="109.0" y="2826.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">F</text>
+      <text x="132.0" y="2826.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Figma</text>
+    </g>
+
+    <g>
+      <rect x="215.5" y="2798.0" width="121.5" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad08)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="244.5" cy="2821.0" r="13.0" fill="url(#grad08)" fill-opacity="0.92"/>
+      <text x="244.5" y="2826.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">C</text>
+      <text x="267.5" y="2826.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Canva</text>
+    </g>
+
+    <g>
+      <rect x="351.0" y="2798.0" width="200.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad08)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="380.0" cy="2821.0" r="13.0" fill="url(#grad08)" fill-opacity="0.92"/>
+      <text x="380.0" y="2826.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">A</text>
+      <text x="403.0" y="2826.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Adobe Express</text>
+    </g>
+
+    <g>
+      <rect x="565.7" y="2798.0" width="200.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad08)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="594.7" cy="2821.0" r="13.0" fill="url(#grad08)" fill-opacity="0.92"/>
+      <text x="594.7" y="2826.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="617.7" y="2826.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Google Stitch</text>
+    </g>
+
+    <g>
+      <rect x="780.4" y="2798.0" width="200.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad08)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="809.4" cy="2821.0" r="13.0" fill="url(#grad08)" fill-opacity="0.92"/>
+      <text x="809.4" y="2826.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="832.4" y="2826.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Glassmorphism</text>
+    </g>
+
+    <g>
+      <rect x="995.1" y="2798.0" width="190.8" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad08)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="1024.1" cy="2821.0" r="13.0" fill="url(#grad08)" fill-opacity="0.92"/>
+      <text x="1024.1" y="2826.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">U</text>
+      <text x="1047.1" y="2826.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">UI/UX Design</text>
+    </g>
+
+    <g>
+      <rect x="80.0" y="2858.0" width="240.3" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad08)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="2881.0" r="13.0" fill="url(#grad08)" fill-opacity="0.92"/>
+      <text x="109.0" y="2886.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">R</text>
+      <text x="132.0" y="2886.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Responsive Design</text>
+    </g>
+
+    <g>
+      <rect x="334.3" y="2858.0" width="180.9" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad08)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="363.3" cy="2881.0" r="13.0" fill="url(#grad08)" fill-opacity="0.92"/>
+      <text x="363.3" y="2886.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">L</text>
+      <text x="386.3" y="2886.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Logo Design</text>
+    </g>
+
+    <g>
+      <rect x="529.2" y="2858.0" width="230.4" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad08)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="558.2" cy="2881.0" r="13.0" fill="url(#grad08)" fill-opacity="0.92"/>
+      <text x="558.2" y="2886.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">T</text>
+      <text x="581.2" y="2886.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Thumbnail Design</text>
+    </g>
+
+    <line x1="80" y1="2922.0" x2="1320" y2="2922.0" stroke="url(#grad08)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="2938.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad08)">DESIGN • INSPIRE • ENGAGE</text>
+  </g>
+
+  <g>
+    <defs>
+      <linearGradient id="grad09" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#F97316"/>
+        <stop offset="100%" stop-color="#EF4444"/>
+      </linearGradient>
+      <linearGradient id="grad09bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#F97316" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#EF4444" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="3000.0" width="1308" height="198.0" rx="26"
+          fill="url(#grad09bg)"/>
+    <rect x="46" y="3000.0" width="1308" height="198.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="3000.0" width="1308" height="198.0" rx="26"
+          fill="none" stroke="url(#grad09)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="3002.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="3048.0" r="27" fill="url(#grad09)" fill-opacity="0.16"/>
+    <circle cx="102" cy="3048.0" r="27" fill="none" stroke="url(#grad09)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="3058.0" text-anchor="middle" font-size="26">🔄</text>
+    <text x="146" y="3044.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad09)">09</text>
+    <text x="146" y="3070.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">Version Control</text>
+    <rect x="1204" y="3026.0" width="110" height="32" rx="16"
+          fill="url(#grad09)" fill-opacity="0.14" stroke="url(#grad09)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="3047.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad09)">3+ Items</text>
+
+
+    <g>
+      <rect x="80.0" y="3096.0" width="101.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad09)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="3119.0" r="13.0" fill="url(#grad09)" fill-opacity="0.92"/>
+      <text x="109.0" y="3124.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="132.0" y="3124.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Git</text>
+    </g>
+
+    <g>
+      <rect x="195.7" y="3096.0" width="131.4" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad09)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="224.7" cy="3119.0" r="13.0" fill="url(#grad09)" fill-opacity="0.92"/>
+      <text x="224.7" y="3124.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="247.7" y="3124.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">GitHub</text>
+    </g>
+
+    <g>
+      <rect x="341.1" y="3096.0" width="190.8" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad09)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="370.1" cy="3119.0" r="13.0" fill="url(#grad09)" fill-opacity="0.92"/>
+      <text x="370.1" y="3124.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="393.1" y="3124.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">GitHub Pages</text>
+    </g>
+
+    <line x1="80" y1="3160.0" x2="1320" y2="3160.0" stroke="url(#grad09)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="3176.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad09)">TRACK • COLLABORATE • SHIP</text>
+  </g>
+
+  <g>
+    <defs>
+      <linearGradient id="grad10" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#3B82F6"/>
+        <stop offset="100%" stop-color="#6366F1"/>
+      </linearGradient>
+      <linearGradient id="grad10bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#6366F1" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="3238.0" width="1308" height="258.0" rx="26"
+          fill="url(#grad10bg)"/>
+    <rect x="46" y="3238.0" width="1308" height="258.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="3238.0" width="1308" height="258.0" rx="26"
+          fill="none" stroke="url(#grad10)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="3240.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="3286.0" r="27" fill="url(#grad10)" fill-opacity="0.16"/>
+    <circle cx="102" cy="3286.0" r="27" fill="none" stroke="url(#grad10)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="3296.0" text-anchor="middle" font-size="26">🛠</text>
+    <text x="146" y="3282.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad10)">10</text>
+    <text x="146" y="3308.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">Code Editors &amp; IDEs</text>
+    <rect x="1204" y="3264.0" width="110" height="32" rx="16"
+          fill="url(#grad10)" fill-opacity="0.14" stroke="url(#grad10)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="3285.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad10)">7+ Tools</text>
+
+
+    <g>
+      <rect x="80.0" y="3334.0" width="250.2" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad10)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="3357.0" r="13.0" fill="url(#grad10)" fill-opacity="0.92"/>
+      <text x="109.0" y="3362.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">V</text>
+      <text x="132.0" y="3362.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Visual Studio Code</text>
+    </g>
+
+    <g>
+      <rect x="344.2" y="3334.0" width="151.2" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad10)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="373.2" cy="3357.0" r="13.0" fill="url(#grad10)" fill-opacity="0.92"/>
+      <text x="373.2" y="3362.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">T</text>
+      <text x="396.2" y="3362.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Trae IDE</text>
+    </g>
+
+    <g>
+      <rect x="509.4" y="3334.0" width="131.4" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad10)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="538.4" cy="3357.0" r="13.0" fill="url(#grad10)" fill-opacity="0.92"/>
+      <text x="538.4" y="3362.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">C</text>
+      <text x="561.4" y="3362.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Cursor</text>
+    </g>
+
+    <g>
+      <rect x="654.8" y="3334.0" width="111.6" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad10)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="683.8" cy="3357.0" r="13.0" fill="url(#grad10)" fill-opacity="0.92"/>
+      <text x="683.8" y="3362.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">K</text>
+      <text x="706.8" y="3362.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Kiro</text>
+    </g>
+
+    <g>
+      <rect x="780.4" y="3334.0" width="151.2" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad10)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="809.4" cy="3357.0" r="13.0" fill="url(#grad10)" fill-opacity="0.92"/>
+      <text x="809.4" y="3362.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">O</text>
+      <text x="832.4" y="3362.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">OpenCode</text>
+    </g>
+
+    <g>
+      <rect x="945.6" y="3334.0" width="141.3" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad10)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="974.6" cy="3357.0" r="13.0" fill="url(#grad10)" fill-opacity="0.92"/>
+      <text x="974.6" y="3362.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">C</text>
+      <text x="997.6" y="3362.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">CodePen</text>
+    </g>
+
+    <g>
+      <rect x="80.0" y="3394.0" width="319.5" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad10)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="3417.0" r="13.0" fill="url(#grad10)" fill-opacity="0.92"/>
+      <text x="109.0" y="3422.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="132.0" y="3422.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">GitHub Codespaces (Basic)</text>
+    </g>
+
+    <line x1="80" y1="3458.0" x2="1320" y2="3458.0" stroke="url(#grad10)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="3474.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad10)">WRITE • RUN • BUILD</text>
+  </g>
+
+  <g>
+    <defs>
+      <linearGradient id="grad11" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#3B82F6"/>
+        <stop offset="100%" stop-color="#06B6D4"/>
+      </linearGradient>
+      <linearGradient id="grad11bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#06B6D4" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="3536.0" width="1308" height="198.0" rx="26"
+          fill="url(#grad11bg)"/>
+    <rect x="46" y="3536.0" width="1308" height="198.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="3536.0" width="1308" height="198.0" rx="26"
+          fill="none" stroke="url(#grad11)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="3538.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="3584.0" r="27" fill="url(#grad11)" fill-opacity="0.16"/>
+    <circle cx="102" cy="3584.0" r="27" fill="none" stroke="url(#grad11)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="3594.0" text-anchor="middle" font-size="26">📡</text>
+    <text x="146" y="3580.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad11)">11</text>
+    <text x="146" y="3606.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">APIs &amp; Web Technologies</text>
+    <rect x="1204" y="3562.0" width="110" height="32" rx="16"
+          fill="url(#grad11)" fill-opacity="0.14" stroke="url(#grad11)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="3583.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad11)">4+ Items</text>
+
+
+    <g>
+      <rect x="80.0" y="3632.0" width="151.2" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad11)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="3655.0" r="13.0" fill="url(#grad11)" fill-opacity="0.92"/>
+      <text x="109.0" y="3660.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">R</text>
+      <text x="132.0" y="3660.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">REST API</text>
+    </g>
+
+    <g>
+      <rect x="245.2" y="3632.0" width="111.6" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad11)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="274.2" cy="3655.0" r="13.0" fill="url(#grad11)" fill-opacity="0.92"/>
+      <text x="274.2" y="3660.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">J</text>
+      <text x="297.2" y="3660.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">JSON</text>
+    </g>
+
+    <g>
+      <rect x="370.8" y="3632.0" width="111.6" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad11)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="399.8" cy="3655.0" r="13.0" fill="url(#grad11)" fill-opacity="0.92"/>
+      <text x="399.8" y="3660.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">A</text>
+      <text x="422.8" y="3660.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">AJAX</text>
+    </g>
+
+    <g>
+      <rect x="496.4" y="3632.0" width="161.1" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad11)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="525.4" cy="3655.0" r="13.0" fill="url(#grad11)" fill-opacity="0.92"/>
+      <text x="525.4" y="3660.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">F</text>
+      <text x="548.4" y="3660.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Fetch API</text>
+    </g>
+
+    <line x1="80" y1="3696.0" x2="1320" y2="3696.0" stroke="url(#grad11)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="3712.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad11)">CONNECT • INTEGRATE • BUILD</text>
+  </g>
+
+  <g>
+    <defs>
+      <linearGradient id="grad12" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#2563EB"/>
+        <stop offset="100%" stop-color="#10B981"/>
+      </linearGradient>
+      <linearGradient id="grad12bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#2563EB" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#10B981" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="3774.0" width="1308" height="198.0" rx="26"
+          fill="url(#grad12bg)"/>
+    <rect x="46" y="3774.0" width="1308" height="198.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="3774.0" width="1308" height="198.0" rx="26"
+          fill="none" stroke="url(#grad12)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="3776.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="3822.0" r="27" fill="url(#grad12)" fill-opacity="0.16"/>
+    <circle cx="102" cy="3822.0" r="27" fill="none" stroke="url(#grad12)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="3832.0" text-anchor="middle" font-size="26">🐧</text>
+    <text x="146" y="3818.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad12)">12</text>
+    <text x="146" y="3844.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">Operating Systems</text>
+    <rect x="1204" y="3800.0" width="110" height="32" rx="16"
+          fill="url(#grad12)" fill-opacity="0.14" stroke="url(#grad12)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="3821.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad12)">3+ Items</text>
+
+
+    <g>
+      <rect x="80.0" y="3870.0" width="260.1" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad12)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="3893.0" r="13.0" fill="url(#grad12)" fill-opacity="0.92"/>
+      <text x="109.0" y="3898.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">W</text>
+      <text x="132.0" y="3898.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Windows 7 / 10 / 11</text>
+    </g>
+
+    <g>
+      <rect x="354.1" y="3870.0" width="171.0" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad12)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="383.1" cy="3893.0" r="13.0" fill="url(#grad12)" fill-opacity="0.92"/>
+      <text x="383.1" y="3898.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">K</text>
+      <text x="406.1" y="3898.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Kali Linux</text>
+    </g>
+
+    <g>
+      <rect x="539.1" y="3870.0" width="398.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad12)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="568.1" cy="3893.0" r="13.0" fill="url(#grad12)" fill-opacity="0.92"/>
+      <text x="568.1" y="3898.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">W</text>
+      <text x="591.1" y="3898.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Windows Subsystem for Linux (WSL)</text>
+    </g>
+
+    <line x1="80" y1="3934.0" x2="1320" y2="3934.0" stroke="url(#grad12)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="3950.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad12)">STABLE • FLEXIBLE • POWERFUL</text>
+  </g>
+
+  <g>
+    <defs>
+      <linearGradient id="grad13" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0D9488"/>
+        <stop offset="100%" stop-color="#06B6D4"/>
+      </linearGradient>
+      <linearGradient id="grad13bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0D9488" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#06B6D4" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="4012.0" width="1308" height="198.0" rx="26"
+          fill="url(#grad13bg)"/>
+    <rect x="46" y="4012.0" width="1308" height="198.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="4012.0" width="1308" height="198.0" rx="26"
+          fill="none" stroke="url(#grad13)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="4014.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="4060.0" r="27" fill="url(#grad13)" fill-opacity="0.16"/>
+    <circle cx="102" cy="4060.0" r="27" fill="none" stroke="url(#grad13)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="4070.0" text-anchor="middle" font-size="26">☁</text>
+    <text x="146" y="4056.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad13)">13</text>
+    <text x="146" y="4082.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">Deployment &amp; Hosting</text>
+    <rect x="1204" y="4038.0" width="110" height="32" rx="16"
+          fill="url(#grad13)" fill-opacity="0.14" stroke="url(#grad13)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="4059.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad13)">6+ Items</text>
+
+
+    <g>
+      <rect x="80.0" y="4108.0" width="190.8" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad13)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="4131.0" r="13.0" fill="url(#grad13)" fill-opacity="0.92"/>
+      <text x="109.0" y="4136.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="132.0" y="4136.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">GitHub Pages</text>
+    </g>
+
+    <g>
+      <rect x="284.8" y="4108.0" width="131.4" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad13)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="313.8" cy="4131.0" r="13.0" fill="url(#grad13)" fill-opacity="0.92"/>
+      <text x="313.8" y="4136.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">V</text>
+      <text x="336.8" y="4136.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Vercel</text>
+    </g>
+
+    <g>
+      <rect x="430.2" y="4108.0" width="141.3" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad13)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="459.2" cy="4131.0" r="13.0" fill="url(#grad13)" fill-opacity="0.92"/>
+      <text x="459.2" y="4136.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">N</text>
+      <text x="482.2" y="4136.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Netlify</text>
+    </g>
+
+    <g>
+      <rect x="585.5" y="4108.0" width="121.5" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad13)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="614.5" cy="4131.0" r="13.0" fill="url(#grad13)" fill-opacity="0.92"/>
+      <text x="614.5" y="4136.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">X</text>
+      <text x="637.5" y="4136.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">XAMPP</text>
+    </g>
+
+    <g>
+      <rect x="721.0" y="4108.0" width="190.8" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad13)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="750.0" cy="4131.0" r="13.0" fill="url(#grad13)" fill-opacity="0.92"/>
+      <text x="750.0" y="4136.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">I</text>
+      <text x="773.0" y="4136.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">InfinityFree</text>
+    </g>
+
+    <g>
+      <rect x="925.8" y="4108.0" width="161.1" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad13)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="954.8" cy="4131.0" r="13.0" fill="url(#grad13)" fill-opacity="0.92"/>
+      <text x="954.8" y="4136.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">H</text>
+      <text x="977.8" y="4136.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Hostinger</text>
+    </g>
+
+    <line x1="80" y1="4172.0" x2="1320" y2="4172.0" stroke="url(#grad13)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="4188.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad13)">DEPLOY • SCALE • GO LIVE</text>
+  </g>
+
+  <g>
+    <defs>
+      <linearGradient id="grad14" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#8B5CF6"/>
+        <stop offset="100%" stop-color="#3B82F6"/>
+      </linearGradient>
+      <linearGradient id="grad14bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="4250.0" width="1308" height="198.0" rx="26"
+          fill="url(#grad14bg)"/>
+    <rect x="46" y="4250.0" width="1308" height="198.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="4250.0" width="1308" height="198.0" rx="26"
+          fill="none" stroke="url(#grad14)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="4252.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="4298.0" r="27" fill="url(#grad14)" fill-opacity="0.16"/>
+    <circle cx="102" cy="4298.0" r="27" fill="none" stroke="url(#grad14)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="4308.0" text-anchor="middle" font-size="26">🌍</text>
+    <text x="146" y="4294.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad14)">14</text>
+    <text x="146" y="4320.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">Browsers &amp; Developer Tools</text>
+    <rect x="1204" y="4276.0" width="110" height="32" rx="16"
+          fill="url(#grad14)" fill-opacity="0.14" stroke="url(#grad14)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="4297.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad14)">4+ Items</text>
+
+
+    <g>
+      <rect x="80.0" y="4346.0" width="220.5" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad14)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="4369.0" r="13.0" fill="url(#grad14)" fill-opacity="0.92"/>
+      <text x="109.0" y="4374.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">C</text>
+      <text x="132.0" y="4374.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Chrome DevTools</text>
+    </g>
+
+    <g>
+      <rect x="314.5" y="4346.0" width="210.6" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad14)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="343.5" cy="4369.0" r="13.0" fill="url(#grad14)" fill-opacity="0.92"/>
+      <text x="343.5" y="4374.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">M</text>
+      <text x="366.5" y="4374.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Microsoft Edge</text>
+    </g>
+
+    <g>
+      <rect x="539.1" y="4346.0" width="190.8" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad14)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="568.1" cy="4369.0" r="13.0" fill="url(#grad14)" fill-opacity="0.92"/>
+      <text x="568.1" y="4374.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">E</text>
+      <text x="591.1" y="4374.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Edge Gallery</text>
+    </g>
+
+    <g>
+      <rect x="743.9" y="4346.0" width="141.3" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad14)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="772.9" cy="4369.0" r="13.0" fill="url(#grad14)" fill-opacity="0.92"/>
+      <text x="772.9" y="4374.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">F</text>
+      <text x="795.9" y="4374.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Firefox</text>
+    </g>
+
+    <line x1="80" y1="4410.0" x2="1320" y2="4410.0" stroke="url(#grad14)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="4426.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad14)">INSPECT • DEBUG • BUILD</text>
+  </g>
+
+  <g>
+    <defs>
+      <linearGradient id="grad15" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#F97316"/>
+        <stop offset="100%" stop-color="#3B82F6"/>
+      </linearGradient>
+      <linearGradient id="grad15bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#F97316" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="4488.0" width="1308" height="258.0" rx="26"
+          fill="url(#grad15bg)"/>
+    <rect x="46" y="4488.0" width="1308" height="258.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="4488.0" width="1308" height="258.0" rx="26"
+          fill="none" stroke="url(#grad15)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="4490.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="4536.0" r="27" fill="url(#grad15)" fill-opacity="0.16"/>
+    <circle cx="102" cy="4536.0" r="27" fill="none" stroke="url(#grad15)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="4546.0" text-anchor="middle" font-size="26">📄</text>
+    <text x="146" y="4532.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad15)">15</text>
+    <text x="146" y="4558.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">Office &amp; Productivity</text>
+    <rect x="1204" y="4514.0" width="110" height="32" rx="16"
+          fill="url(#grad15)" fill-opacity="0.14" stroke="url(#grad15)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="4535.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad15)">7+ Tools</text>
+
+
+    <g>
+      <rect x="80.0" y="4584.0" width="210.6" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad15)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="4607.0" r="13.0" fill="url(#grad15)" fill-opacity="0.92"/>
+      <text x="109.0" y="4612.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">M</text>
+      <text x="132.0" y="4612.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Microsoft Word</text>
+    </g>
+
+    <g>
+      <rect x="304.6" y="4584.0" width="220.5" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad15)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="333.6" cy="4607.0" r="13.0" fill="url(#grad15)" fill-opacity="0.92"/>
+      <text x="333.6" y="4612.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">M</text>
+      <text x="356.6" y="4612.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Microsoft Excel</text>
+    </g>
+
+    <g>
+      <rect x="539.1" y="4584.0" width="270.0" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad15)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="568.1" cy="4607.0" r="13.0" fill="url(#grad15)" fill-opacity="0.92"/>
+      <text x="568.1" y="4612.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">M</text>
+      <text x="591.1" y="4612.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Microsoft PowerPoint</text>
+    </g>
+
+    <g>
+      <rect x="823.1" y="4584.0" width="180.9" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad15)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="852.1" cy="4607.0" r="13.0" fill="url(#grad15)" fill-opacity="0.92"/>
+      <text x="852.1" y="4612.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="875.1" y="4612.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Google Docs</text>
+    </g>
+
+    <g>
+      <rect x="1018.0" y="4584.0" width="200.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad15)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="1047.0" cy="4607.0" r="13.0" fill="url(#grad15)" fill-opacity="0.92"/>
+      <text x="1047.0" y="4612.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="1070.0" y="4612.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Google Sheets</text>
+    </g>
+
+    <g>
+      <rect x="80.0" y="4644.0" width="190.8" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad15)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="4667.0" r="13.0" fill="url(#grad15)" fill-opacity="0.92"/>
+      <text x="109.0" y="4672.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="132.0" y="4672.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Google Forms</text>
+    </g>
+
+    <g>
+      <rect x="284.8" y="4644.0" width="190.8" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad15)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="313.8" cy="4667.0" r="13.0" fill="url(#grad15)" fill-opacity="0.92"/>
+      <text x="313.8" y="4672.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">G</text>
+      <text x="336.8" y="4672.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Google Drive</text>
+    </g>
+
+    <line x1="80" y1="4708.0" x2="1320" y2="4708.0" stroke="url(#grad15)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="4724.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad15)">WORK SMARTER • ACHIEVE MORE</text>
+  </g>
+
+  <g>
+    <defs>
+      <linearGradient id="grad16" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#EC4899"/>
+        <stop offset="100%" stop-color="#D946EF"/>
+      </linearGradient>
+      <linearGradient id="grad16bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#EC4899" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#D946EF" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="4786.0" width="1308" height="198.0" rx="26"
+          fill="url(#grad16bg)"/>
+    <rect x="46" y="4786.0" width="1308" height="198.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="4786.0" width="1308" height="198.0" rx="26"
+          fill="none" stroke="url(#grad16)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="4788.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="4834.0" r="27" fill="url(#grad16)" fill-opacity="0.16"/>
+    <circle cx="102" cy="4834.0" r="27" fill="none" stroke="url(#grad16)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="4844.0" text-anchor="middle" font-size="26">🎬</text>
+    <text x="146" y="4830.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad16)">16</text>
+    <text x="146" y="4856.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">Video Editing &amp; Motion Graphics</text>
+    <rect x="1204" y="4812.0" width="110" height="32" rx="16"
+          fill="url(#grad16)" fill-opacity="0.14" stroke="url(#grad16)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="4833.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad16)">4+ Items</text>
+
+
+    <g>
+      <rect x="80.0" y="4882.0" width="131.4" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad16)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="4905.0" r="13.0" fill="url(#grad16)" fill-opacity="0.92"/>
+      <text x="109.0" y="4910.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">C</text>
+      <text x="132.0" y="4910.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">CapCut</text>
+    </g>
+
+    <g>
+      <rect x="225.4" y="4882.0" width="200.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad16)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="254.4" cy="4905.0" r="13.0" fill="url(#grad16)" fill-opacity="0.92"/>
+      <text x="254.4" y="4910.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">A</text>
+      <text x="277.4" y="4910.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Alight Motion</text>
+    </g>
+
+    <g>
+      <rect x="440.1" y="4882.0" width="190.8" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad16)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="469.1" cy="4905.0" r="13.0" fill="url(#grad16)" fill-opacity="0.92"/>
+      <text x="469.1" y="4910.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">M</text>
+      <text x="492.1" y="4910.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Motion Ninja</text>
+    </g>
+
+    <g>
+      <rect x="644.9" y="4882.0" width="141.3" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad16)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="673.9" cy="4905.0" r="13.0" fill="url(#grad16)" fill-opacity="0.92"/>
+      <text x="673.9" y="4910.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">K</text>
+      <text x="696.9" y="4910.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">KwaiCut</text>
+    </g>
+
+    <line x1="80" y1="4946.0" x2="1320" y2="4946.0" stroke="url(#grad16)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="4962.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad16)">EDIT • ANIMATE • CREATE</text>
+  </g>
+
+  <g>
+    <defs>
+      <linearGradient id="grad17" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#EC4899"/>
+        <stop offset="100%" stop-color="#A855F7"/>
+      </linearGradient>
+      <linearGradient id="grad17bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#EC4899" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#A855F7" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="5024.0" width="1308" height="198.0" rx="26"
+          fill="url(#grad17bg)"/>
+    <rect x="46" y="5024.0" width="1308" height="198.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="5024.0" width="1308" height="198.0" rx="26"
+          fill="none" stroke="url(#grad17)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="5026.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="5072.0" r="27" fill="url(#grad17)" fill-opacity="0.16"/>
+    <circle cx="102" cy="5072.0" r="27" fill="none" stroke="url(#grad17)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="5082.0" text-anchor="middle" font-size="26">📈</text>
+    <text x="146" y="5068.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad17)">17</text>
+    <text x="146" y="5094.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">SEO &amp; Content Creation</text>
+    <rect x="1204" y="5050.0" width="110" height="32" rx="16"
+          fill="url(#grad17)" fill-opacity="0.14" stroke="url(#grad17)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="5071.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad17)">5+ Items</text>
+
+
+    <g>
+      <rect x="80.0" y="5120.0" width="180.9" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad17)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="5143.0" r="13.0" fill="url(#grad17)" fill-opacity="0.92"/>
+      <text x="109.0" y="5148.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">Y</text>
+      <text x="132.0" y="5148.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">YouTube SEO</text>
+    </g>
+
+    <g>
+      <rect x="274.9" y="5120.0" width="230.4" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad17)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="303.9" cy="5143.0" r="13.0" fill="url(#grad17)" fill-opacity="0.92"/>
+      <text x="303.9" y="5148.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">K</text>
+      <text x="326.9" y="5148.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Keyword Research</text>
+    </g>
+
+    <g>
+      <rect x="519.3" y="5120.0" width="250.2" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad17)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="548.3" cy="5143.0" r="13.0" fill="url(#grad17)" fill-opacity="0.92"/>
+      <text x="548.3" y="5148.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">P</text>
+      <text x="571.3" y="5148.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Prompt Engineering</text>
+    </g>
+
+    <g>
+      <rect x="783.5" y="5120.0" width="220.5" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad17)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="812.5" cy="5143.0" r="13.0" fill="url(#grad17)" fill-opacity="0.92"/>
+      <text x="812.5" y="5148.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">C</text>
+      <text x="835.5" y="5148.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Content Writing</text>
+    </g>
+
+    <g>
+      <rect x="1018.0" y="5120.0" width="289.8" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad17)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="1047.0" cy="5143.0" r="13.0" fill="url(#grad17)" fill-opacity="0.92"/>
+      <text x="1047.0" y="5148.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">T</text>
+      <text x="1070.0" y="5148.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Thumbnail Optimization</text>
+    </g>
+
+    <line x1="80" y1="5184.0" x2="1320" y2="5184.0" stroke="url(#grad17)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="5200.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad17)">CREATE • RANK • GROW</text>
+  </g>
+
+  <g>
+    <defs>
+      <linearGradient id="grad18" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#2563EB"/>
+        <stop offset="100%" stop-color="#6366F1"/>
+      </linearGradient>
+      <linearGradient id="grad18bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#2563EB" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#6366F1" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="5262.0" width="1308" height="258.0" rx="26"
+          fill="url(#grad18bg)"/>
+    <rect x="46" y="5262.0" width="1308" height="258.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="5262.0" width="1308" height="258.0" rx="26"
+          fill="none" stroke="url(#grad18)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="5264.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="5310.0" r="27" fill="url(#grad18)" fill-opacity="0.16"/>
+    <circle cx="102" cy="5310.0" r="27" fill="none" stroke="url(#grad18)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="5320.0" text-anchor="middle" font-size="26">📚</text>
+    <text x="146" y="5306.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad18)">18</text>
+    <text x="146" y="5332.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">Computer Science</text>
+    <rect x="1204" y="5288.0" width="110" height="32" rx="16"
+          fill="url(#grad18)" fill-opacity="0.14" stroke="url(#grad18)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="5309.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad18)">8+ Tools</text>
+
+
+    <g>
+      <rect x="80.0" y="5358.0" width="220.5" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad18)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="5381.0" r="13.0" fill="url(#grad18)" fill-opacity="0.92"/>
+      <text x="109.0" y="5386.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">D</text>
+      <text x="132.0" y="5386.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Data Structures</text>
+    </g>
+
+    <g>
+      <rect x="314.5" y="5358.0" width="171.0" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad18)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="343.5" cy="5381.0" r="13.0" fill="url(#grad18)" fill-opacity="0.92"/>
+      <text x="343.5" y="5386.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">A</text>
+      <text x="366.5" y="5386.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Algorithms</text>
+    </g>
+
+    <g>
+      <rect x="499.5" y="5358.0" width="398.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad18)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="528.5" cy="5381.0" r="13.0" fill="url(#grad18)" fill-opacity="0.92"/>
+      <text x="528.5" y="5386.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">O</text>
+      <text x="551.5" y="5386.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Object-Oriented Programming (OOP)</text>
+    </g>
+
+    <g>
+      <rect x="912.2" y="5358.0" width="398.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad18)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="941.2" cy="5381.0" r="13.0" fill="url(#grad18)" fill-opacity="0.92"/>
+      <text x="941.2" y="5386.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">D</text>
+      <text x="964.2" y="5386.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Database Management System (DBMS)</text>
+    </g>
+
+    <g>
+      <rect x="80.0" y="5418.0" width="240.3" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad18)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="5441.0" r="13.0" fill="url(#grad18)" fill-opacity="0.92"/>
+      <text x="109.0" y="5446.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">O</text>
+      <text x="132.0" y="5446.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Operating Systems</text>
+    </g>
+
+    <g>
+      <rect x="334.3" y="5418.0" width="240.3" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad18)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="363.3" cy="5441.0" r="13.0" fill="url(#grad18)" fill-opacity="0.92"/>
+      <text x="363.3" y="5446.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">C</text>
+      <text x="386.3" y="5446.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Computer Networks</text>
+    </g>
+
+    <g>
+      <rect x="588.6" y="5418.0" width="270.0" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad18)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="617.6" cy="5441.0" r="13.0" fill="url(#grad18)" fill-opacity="0.92"/>
+      <text x="617.6" y="5446.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">S</text>
+      <text x="640.6" y="5446.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Software Engineering</text>
+    </g>
+
+    <g>
+      <rect x="872.6" y="5418.0" width="299.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad18)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="901.6" cy="5441.0" r="13.0" fill="url(#grad18)" fill-opacity="0.92"/>
+      <text x="901.6" y="5446.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">N</text>
+      <text x="924.6" y="5446.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Networking Fundamentals</text>
+    </g>
+
+    <line x1="80" y1="5482.0" x2="1320" y2="5482.0" stroke="url(#grad18)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="5498.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad18)">THINK • DESIGN • BUILD</text>
+  </g>
+
+  <g>
+    <defs>
+      <linearGradient id="grad19" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#10B981"/>
+        <stop offset="100%" stop-color="#14B8A6"/>
+      </linearGradient>
+      <linearGradient id="grad19bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#10B981" stop-opacity="0.07"/>
+        <stop offset="100%" stop-color="#14B8A6" stop-opacity="0.05"/>
+      </linearGradient>
+    </defs>
+    <rect x="46" y="5560.0" width="1308" height="258.0" rx="26"
+          fill="url(#grad19bg)"/>
+    <rect x="46" y="5560.0" width="1308" height="258.0" rx="26"
+          fill="#FFFFFF" fill-opacity="0.66"/>
+    <rect x="46" y="5560.0" width="1308" height="258.0" rx="26"
+          fill="none" stroke="url(#grad19)" stroke-opacity="0.38" stroke-width="1.6"/>
+    <rect x="48" y="5562.0" width="1304" height="34" rx="17"
+          fill="none"/>
+    <circle cx="102" cy="5608.0" r="27" fill="url(#grad19)" fill-opacity="0.16"/>
+    <circle cx="102" cy="5608.0" r="27" fill="none" stroke="url(#grad19)" stroke-width="1.4" stroke-opacity="0.6"/>
+    <text x="102" y="5618.0" text-anchor="middle" font-size="26">⌨</text>
+    <text x="146" y="5604.0" font-family="Verdana, Arial, sans-serif" font-size="15"
+          font-weight="700" letter-spacing="2" fill="url(#grad19)">19</text>
+    <text x="146" y="5630.0" font-family="Verdana, Arial, sans-serif" font-size="27"
+          font-weight="800" fill="#151A26">Additional Skills</text>
+    <rect x="1204" y="5586.0" width="110" height="32" rx="16"
+          fill="url(#grad19)" fill-opacity="0.14" stroke="url(#grad19)" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="1259" y="5607.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="14" font-weight="700" fill="url(#grad19)">8+ Tools</text>
+
+
+    <g>
+      <rect x="80.0" y="5656.0" width="369.0" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad19)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="5679.0" r="13.0" fill="url(#grad19)" fill-opacity="0.92"/>
+      <text x="109.0" y="5684.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">T</text>
+      <text x="132.0" y="5684.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Typing Speed: 35 WPM (English)</text>
+    </g>
+
+    <g>
+      <rect x="463.0" y="5656.0" width="220.5" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad19)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="492.0" cy="5679.0" r="13.0" fill="url(#grad19)" fill-opacity="0.92"/>
+      <text x="492.0" y="5684.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">P</text>
+      <text x="515.0" y="5684.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Problem Solving</text>
+    </g>
+
+    <g>
+      <rect x="697.5" y="5656.0" width="250.2" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad19)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="726.5" cy="5679.0" r="13.0" fill="url(#grad19)" fill-opacity="0.92"/>
+      <text x="726.5" y="5684.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">T</text>
+      <text x="749.5" y="5684.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Team Collaboration</text>
+    </g>
+
+    <g>
+      <rect x="961.7" y="5656.0" width="220.5" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad19)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="990.7" cy="5679.0" r="13.0" fill="url(#grad19)" fill-opacity="0.92"/>
+      <text x="990.7" y="5684.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">T</text>
+      <text x="1013.7" y="5684.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Time Management</text>
+    </g>
+
+    <g>
+      <rect x="80.0" y="5716.0" width="200.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad19)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="109.0" cy="5739.0" r="13.0" fill="url(#grad19)" fill-opacity="0.92"/>
+      <text x="109.0" y="5744.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">C</text>
+      <text x="132.0" y="5744.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Communication</text>
+    </g>
+
+    <g>
+      <rect x="294.7" y="5716.0" width="161.1" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad19)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="323.7" cy="5739.0" r="13.0" fill="url(#grad19)" fill-opacity="0.92"/>
+      <text x="323.7" y="5744.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">D</text>
+      <text x="346.7" y="5744.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Debugging</text>
+    </g>
+
+    <g>
+      <rect x="469.8" y="5716.0" width="200.7" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad19)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="498.8" cy="5739.0" r="13.0" fill="url(#grad19)" fill-opacity="0.92"/>
+      <text x="498.8" y="5744.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">D</text>
+      <text x="521.8" y="5744.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Documentation</text>
+    </g>
+
+    <g>
+      <rect x="684.5" y="5716.0" width="250.2" height="46" rx="15"
+            fill="#FFFFFF" fill-opacity="0.72" stroke="url(#grad19)" stroke-opacity="0.55" stroke-width="1.3"/>
+      <circle cx="713.5" cy="5739.0" r="13.0" fill="url(#grad19)" fill-opacity="0.92"/>
+      <text x="713.5" y="5744.5" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+            font-size="13" font-weight="700" fill="#FFFFFF">P</text>
+      <text x="736.5" y="5744.5" font-family="Verdana, Arial, sans-serif" font-size="16.5"
+            font-weight="600" fill="#1E2433">Project Management</text>
+    </g>
+
+    <line x1="80" y1="5780.0" x2="1320" y2="5780.0" stroke="url(#grad19)" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="700.0" y="5796.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif"
+          font-size="13.5" font-weight="700" letter-spacing="2" fill="url(#grad19)">SKILLS BUILD SUCCESS</text>
+  </g>
+<line x1="1374" y1="565.0" x2="1374" y2="5689.0" stroke="#C9CEEC" stroke-width="2"/>
+
+    <circle cx="1374" cy="565.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="568.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">01</text>
+
+    <circle cx="1374" cy="863.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="866.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">02</text>
+
+    <circle cx="1374" cy="1161.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="1164.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">03</text>
+
+    <circle cx="1374" cy="1429.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="1432.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">04</text>
+
+    <circle cx="1374" cy="1697.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="1700.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">05</text>
+
+    <circle cx="1374" cy="2025.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="2028.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">06</text>
+
+    <circle cx="1374" cy="2443.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="2446.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">07</text>
+
+    <circle cx="1374" cy="2831.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="2834.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">08</text>
+
+    <circle cx="1374" cy="3099.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="3102.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">09</text>
+
+    <circle cx="1374" cy="3367.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="3370.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">10</text>
+
+    <circle cx="1374" cy="3635.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="3638.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">11</text>
+
+    <circle cx="1374" cy="3873.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="3876.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">12</text>
+
+    <circle cx="1374" cy="4111.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="4114.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">13</text>
+
+    <circle cx="1374" cy="4349.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="4352.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">14</text>
+
+    <circle cx="1374" cy="4617.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="4620.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">15</text>
+
+    <circle cx="1374" cy="4885.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="4888.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">16</text>
+
+    <circle cx="1374" cy="5123.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="5126.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">17</text>
+
+    <circle cx="1374" cy="5391.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="5394.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">18</text>
+
+    <circle cx="1374" cy="5689.0" r="9" fill="#FFFFFF" stroke="#7C86D9" stroke-width="2"/>
+    <text x="1374" y="5692.2" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="8" font-weight="700" fill="#4B4FA0">19</text>
+  <rect x="0" y="5858.0" width="1400" height="300" fill="url(#heroGrad)"/>
+  <circle cx="200" cy="5928.0" r="160" fill="url(#glow2)"/>
+  <circle cx="1200" cy="6038.0" r="180" fill="url(#glow1)"/>
+  <path d="M0 6112.0 L200 6068.0 L420 6108.0 L680 6048.0 L960 6103.0 L1200 6063.0 L1400 6098.0 L1400 6158.0 L0 6158.0 Z" fill="#1B1550" fill-opacity="0.6"/>
+  <text x="700.0" y="5926.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="3" fill="#22D3EE">CODE • BUILD • LEARN • INNOVATE</text>
+  <text x="700.0" y="5956.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="14" fill="#C7CCEE">GitHub • Open Source • Continuous Learning</text>
+  <text x="700.0" y="6006.0" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="26" fill="#F1F2FB">"Better Tools.</text>
+  <text x="700.0" y="6040.0" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="26" fill="#F1F2FB">Better Code.</text>
+  <text x="700.0" y="6074.0" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="26" fill="url(#arsenalGrad)">Better Future."</text>
+  <g transform="translate(684.0,6098.0)" fill="#FFFFFF">
+    <path d="M16 0C7.2 0 0 7.2 0 16c0 7 4.6 13 10.9 15.1.8.1 1.1-.4 1.1-.8v-3c-4.5 1-5.4-1.9-5.4-1.9-.7-1.9-1.8-2.4-1.8-2.4-1.5-1 .1-1 .1-1 1.6.1 2.5 1.7 2.5 1.7 1.5 2.5 3.8 1.8 4.7 1.4.1-1.1.6-1.8 1-2.2-3.6-.4-7.4-1.8-7.4-8 0-1.8.6-3.2 1.7-4.3-.2-.4-.7-2.1.2-4.3 0 0 1.4-.4 4.4 1.6 1.3-.3 2.6-.5 4-.5s2.7.2 4 .5c3-2 4.4-1.6 4.4-1.6.9 2.2.3 3.9.2 4.3 1.1 1.1 1.7 2.6 1.7 4.3 0 6.2-3.8 7.6-7.4 8 .6.5 1.1 1.5 1.1 3v4.4c0 .4.3.9 1.1.8C27.4 29 32 23 32 16c0-8.8-7.2-16-16-16Z"/>
+  </g>
+  <text x="700.0" y="6153.0" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="11" fill="#8A8FCB">✨ Keep Learning • Keep Building • Keep Shipping ✨</text>
+
+</svg>
