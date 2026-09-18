@@ -95,9 +95,9 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/Sudarshanbadli/Sudarshanbadli/blob/main/darkcontact.svg">
+    srcset="https://github.com/Sudarshanbadli/Sudarshanbadli/blob/main/contactdark.svg">
   <source media="(prefers-color-scheme: light)" 
-    srcset="https://github.com/Sudarshanbadli/Sudarshanbadli/blob/main/lightcontact.svg">
+    srcset="https://github.com/Sudarshanbadli/Sudarshanbadli/blob/main/contactlight.svg">
   <img alt="Sudarshan Badli" src="https://github.com/Sudarshanbadli/Sudarshanbadli/blob/main/sudarshan%20Badli.jpeg">
 </picture>
 
