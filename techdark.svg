@@ -1,0 +1,1086 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 7240" width="1400" height="7240" font-family="Segoe UI, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowOTUxOGM4Yi1iZmYwLTRkMjgtOTE4ZC0yODE0MWQxMmU0NmYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaC6ywOhCw6g0x8VwGLprPFAAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplM2NjODNhYS05MGMzLTQ0NDgtOTEyNi0xOTQ5ZTI1ZDE0YzVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNokzQCDSZarh3r/NVX5lKz7gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggj65scgn2qFaIwWPzD2/052FmwIY1giqGJa0tOwjyXSOkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaF27bw42U2f7Zke8XSHYxtQAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBVf4yoVUWxEqdA8dNNEqpw+R3RIn02CcqW7GddLtT3aWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjEZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjA5NTE4YzhiLWJmZjAtNGQyOC05MThkLTI4MTQxZDEyZTQ2Zi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjkwMDYzNTQ0LTk3ZDEtNGJlNS04YzgwLWY0ZDEwYjY1ZTgyMXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCPrmxyCfaoVojBY/MPb/TnYWbAhjWCKoYlrS07CPJdI6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg3OqWKkX55iOQVnhPFeP2vl3BIpxRS+aQzj61vphAZDGiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg+tJK286m4dKJOU3SwMxNp6h4V2vsr3jus2TMP15lMux0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAmZ3CLn/VEhAXznQTwTXssTBEZAn+Oaxg5m+bbGaIhJUqJczINNrzEZs5pWbd/QHP+Uka2ML+IyjVtZJEv87c0=</c2pa:manifest></metadata>
+  <defs>
+  
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="35%" stop-color="#0d1326"/>
+      <stop offset="100%" stop-color="#0a0e1a"/>
+    </linearGradient>
+    <linearGradient id="heroGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="45%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#312e81"/>
+    </linearGradient>
+    <linearGradient id="techText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="arsenalText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="50%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#3b82f6" flood-opacity="0.10"/>
+    </filter>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="cg1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="cg2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="cg3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="cg4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#9333ea"/>
+    </linearGradient>
+    <linearGradient id="cg5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+    <linearGradient id="cg6" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="cg7" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="cg8" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="cg9" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+    <linearGradient id="cg10" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <linearGradient id="cg11" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="cg12" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+    <linearGradient id="cg13" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#14b8a6"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="cg14" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="cg15" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="cg16" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#d946ef"/>
+    </linearGradient>
+    <linearGradient id="cg17" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f43f5e"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="cg18" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#4f46e5"/>
+    </linearGradient>
+    <linearGradient id="cg19" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1400" height="7240" fill="url(#bgGrad)"/>
+  <rect x="0" y="0" width="1400" height="760" fill="url(#heroGrad)"/><g><circle cx="460.4" cy="125.6" r="1.9" fill="#e0e7ff" opacity="0.29"/><circle cx="748.8" cy="276.0" r="1.1" fill="#e0e7ff" opacity="0.55"/><circle cx="71.0" cy="323.6" r="1.1" fill="#e0e7ff" opacity="0.30"/><circle cx="597.3" cy="598.8" r="1.2" fill="#e0e7ff" opacity="0.38"/><circle cx="873.3" cy="683.4" r="1.8" fill="#e0e7ff" opacity="0.49"/><circle cx="1347.7" cy="52.6" r="2.2" fill="#e0e7ff" opacity="0.42"/><circle cx="216.2" cy="102.5" r="1.4" fill="#e0e7ff" opacity="0.74"/><circle cx="265.8" cy="427.1" r="1.9" fill="#e0e7ff" opacity="0.47"/><circle cx="764.9" cy="64.0" r="1.1" fill="#e0e7ff" opacity="0.37"/><circle cx="945.3" cy="319.3" r="1.4" fill="#e0e7ff" opacity="0.60"/><circle cx="636.3" cy="229.8" r="2.1" fill="#e0e7ff" opacity="0.67"/><circle cx="352.0" cy="422.1" r="1.7" fill="#e0e7ff" opacity="0.78"/><circle cx="1012.0" cy="221.6" r="2.4" fill="#e0e7ff" opacity="0.32"/><circle cx="588.6" cy="550.0" r="1.2" fill="#e0e7ff" opacity="0.54"/><circle cx="73.3" cy="487.8" r="2.1" fill="#e0e7ff" opacity="0.59"/><circle cx="1210.6" cy="239.6" r="2.0" fill="#e0e7ff" opacity="0.61"/><circle cx="808.7" cy="339.3" r="2.2" fill="#e0e7ff" opacity="0.82"/><circle cx="664.8" cy="484.9" r="1.1" fill="#e0e7ff" opacity="0.67"/><circle cx="900.1" cy="715.2" r="2.2" fill="#e0e7ff" opacity="0.42"/><circle cx="544.7" cy="488.1" r="1.0" fill="#e0e7ff" opacity="0.53"/><circle cx="248.5" cy="102.0" r="1.1" fill="#e0e7ff" opacity="0.71"/><circle cx="195.9" cy="193.3" r="1.5" fill="#e0e7ff" opacity="0.77"/><circle cx="129.6" cy="334.4" r="1.8" fill="#e0e7ff" opacity="0.78"/><circle cx="1134.2" cy="624.8" r="1.4" fill="#e0e7ff" opacity="0.50"/><circle cx="507.9" cy="638.9" r="2.3" fill="#e0e7ff" opacity="0.34"/><circle cx="259.7" cy="182.4" r="1.3" fill="#e0e7ff" opacity="0.54"/><circle cx="821.2" cy="203.9" r="1.0" fill="#e0e7ff" opacity="0.50"/><circle cx="522.2" cy="416.4" r="2.3" fill="#e0e7ff" opacity="0.66"/><circle cx="721.1" cy="452.3" r="1.9" fill="#e0e7ff" opacity="0.28"/><circle cx="1243.4" cy="566.0" r="2.2" fill="#e0e7ff" opacity="0.73"/><circle cx="553.6" cy="299.3" r="1.1" fill="#e0e7ff" opacity="0.63"/><circle cx="104.7" cy="67.1" r="1.3" fill="#e0e7ff" opacity="0.35"/><circle cx="482.5" cy="56.8" r="1.0" fill="#e0e7ff" opacity="0.34"/><circle cx="158.0" cy="274.5" r="1.0" fill="#e0e7ff" opacity="0.77"/><circle cx="855.1" cy="124.0" r="1.4" fill="#e0e7ff" opacity="0.46"/><circle cx="515.3" cy="106.0" r="2.2" fill="#e0e7ff" opacity="0.85"/><circle cx="653.7" cy="358.7" r="1.1" fill="#e0e7ff" opacity="0.31"/><circle cx="486.0" cy="205.3" r="2.2" fill="#e0e7ff" opacity="0.35"/><circle cx="51.4" cy="685.7" r="1.7" fill="#e0e7ff" opacity="0.34"/><circle cx="758.7" cy="38.9" r="1.7" fill="#e0e7ff" opacity="0.84"/><circle cx="1194.1" cy="507.3" r="1.4" fill="#e0e7ff" opacity="0.47"/><circle cx="247.2" cy="560.4" r="1.7" fill="#e0e7ff" opacity="0.72"/><circle cx="468.3" cy="176.1" r="2.1" fill="#e0e7ff" opacity="0.84"/><circle cx="1179.6" cy="584.3" r="2.1" fill="#e0e7ff" opacity="0.69"/><circle cx="328.4" cy="382.3" r="1.5" fill="#e0e7ff" opacity="0.27"/><circle cx="58.0" cy="215.6" r="1.4" fill="#e0e7ff" opacity="0.67"/></g><rect x="1302.6" y="335.2" width="11.6" height="11.6" fill="#ec4899" opacity="0.35" transform="rotate(45 1302.6 335.2)"/><rect x="1300.6" y="280.7" width="7.3" height="7.3" fill="#a855f7" opacity="0.35" transform="rotate(45 1300.6 280.7)"/><rect x="660.5" y="262.9" width="8.9" height="8.9" fill="#22d3ee" opacity="0.35" transform="rotate(45 660.5 262.9)"/><rect x="672.9" y="471.0" width="10.8" height="10.8" fill="#22d3ee" opacity="0.35" transform="rotate(45 672.9 471.0)"/><rect x="1141.7" y="119.1" width="8.3" height="8.3" fill="#a855f7" opacity="0.35" transform="rotate(45 1141.7 119.1)"/><rect x="671.0" y="157.8" width="10.7" height="10.7" fill="#ec4899" opacity="0.35" transform="rotate(45 671.0 157.8)"/><rect x="154.5" y="664.5" width="10.3" height="10.3" fill="#3b82f6" opacity="0.35" transform="rotate(45 154.5 664.5)"/><rect x="569.8" y="664.9" width="10.3" height="10.3" fill="#a855f7" opacity="0.35" transform="rotate(45 569.8 664.9)"/><rect x="1350.9" y="58.2" width="9.5" height="9.5" fill="#3b82f6" opacity="0.35" transform="rotate(45 1350.9 58.2)"/><rect x="1104.6" y="136.5" width="11.0" height="11.0" fill="#3b82f6" opacity="0.35" transform="rotate(45 1104.6 136.5)"/><line x1="0" y1="130" x2="1400" y2="130" stroke="url(#techText)" stroke-width="1" opacity="0.18"/><line x1="0" y1="720" x2="1400" y2="720" stroke="url(#arsenalText)" stroke-width="1" opacity="0.18"/>
+  <circle cx="130" cy="150" r="92" fill="none" stroke="url(#techText)" stroke-width="2" opacity="0.35"/>
+  <circle cx="130" cy="150" r="78" fill="#111827" filter="url(#glow)"/>
+  <path transform="translate(84,104) scale(0.096)" fill="#ffffff"
+    d="M480 0C214.8 0 0 214.8 0 480c0 212.1 137.5 392 328.2 455.5 24 4.4 32.8-10.4 32.8-23.1 0-11.4-.4-41.6-.6-81.7-133.5 29-161.7-64.3-161.7-64.3-21.8-55.5-53.3-70.3-53.3-70.3-43.6-29.8 3.3-29.2 3.3-29.2 48.2 3.4 73.6 49.5 73.6 49.5 42.8 73.4 112.4 52.2 139.8 39.9 4.3-31 16.8-52.2 30.5-64.2-106.6-12.1-218.7-53.3-218.7-237.2 0-52.4 18.7-95.2 49.4-128.8-5-12.1-21.4-60.8 4.7-126.8 0 0 40.3-12.9 132 49.2 38.3-10.6 79.4-16 120.2-16.2 40.8.2 81.9 5.6 120.3 16.2 91.6-62.1 131.9-49.2 131.9-49.2 26.2 66 9.7 114.7 4.8 126.8 30.8 33.6 49.3 76.4 49.3 128.8 0 184.4-112.3 225-219.2 236.9 17.2 14.9 32.6 44.1 32.6 88.9 0 64.2-.6 116-.6 131.8 0 12.8 8.7 27.8 33.1 23.1C822.6 872 960 692.1 960 480 960 214.8 745.2 0 480 0z"/>
+<text x="130" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#94a3b8" letter-spacing="3">GITHUB</text>
+  <g transform="translate(1060,90)" filter="url(#softShadow)">
+    <rect x="0" y="0" width="260" height="160" rx="12" fill="#1e293b" stroke="#334155" stroke-width="2"/>
+    <rect x="12" y="12" width="236" height="136" rx="4" fill="#0f172a"/>
+    <text x="24" y="40" font-family="Consolas, Menlo, monospace" font-size="13" fill="#22d3ee">&lt;/&gt; building...</text>
+    <text x="24" y="64" font-family="Consolas, Menlo, monospace" font-size="12" fill="#a855f7">const dream = true;</text>
+    <text x="24" y="86" font-family="Consolas, Menlo, monospace" font-size="12" fill="#34d399">deploy(project);</text>
+    <rect x="24" y="104" width="120" height="8" rx="4" fill="#334155"/>
+    <rect x="24" y="120" width="80" height="8" rx="4" fill="#334155"/>
+    <rect x="-14" y="160" width="288" height="14" rx="6" fill="#334155"/>
+    <rect x="-24" y="174" width="308" height="8" rx="4" fill="#1e293b"/>
+  </g>
+  <g transform="translate(1360,130)" opacity="0.9">
+    <rect x="0" y="70" width="34" height="70" rx="3" fill="#334155"/>
+    <ellipse cx="17" cy="70" rx="17" ry="6" fill="#475569"/>
+    <path d="M -6 40 Q 17 10 40 40 Q 30 60 17 55 Q 4 60 -6 40 Z" fill="#22c55e"/>
+    <path d="M -2 34 Q 17 8 36 34" stroke="#16a34a" stroke-width="2" fill="none"/>
+  </g>
+<text x="1330" y="705" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#c7d2fe" font-style="italic">Better Tools. Bigger Dreams.</text>
+  <rect x="60" y="250" width="1280" height="330" rx="28" fill="#ffffff" opacity="0.04" stroke="#818cf8" stroke-opacity="0.25" stroke-width="1.5"/>
+
+  <text x="700.0" y="320" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="30" fill="#c7d2fe" letter-spacing="10">MY GITHUB</text>
+  <text x="700.0" y="420" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="800" font-size="92" fill="url(#techText)" letter-spacing="4">TECH</text>
+  <text x="700.0" y="520" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="800" font-size="92" fill="url(#arsenalText)" letter-spacing="4">ARSENAL</text>
+  <text x="700.0" y="575" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="20" fill="#a5b4fc" letter-spacing="5">CODE &#8226; BUILD &#8226; INNOVATE &#8226; CREATE &#8226; GROW</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="830" width="1230" height="280" rx="26" fill="#131a2e" stroke="url(#cg1)" stroke-width="1.6"/>
+    <rect x="50" y="830" width="1230" height="280" rx="26" fill="url(#cg1)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="832" width="1226" height="4" rx="2" fill="url(#cg1)" opacity="0.7"/>
+
+  <circle cx="112" cy="876" r="28" fill="url(#cg1)" opacity="0.14"/>
+  <text x="112" y="885" text-anchor="middle" font-size="26">💻</text>
+  <text x="162" y="883" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">PROGRAMMING LANGUAGES</text>
+
+  <rect x="1113" y="856" width="133" height="34" rx="17" fill="url(#cg1)"/>
+  <text x="1179.5" y="878" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">10 Languages</text>
+<line x1="84" y1="908" x2="1246" y2="908" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="922.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg1)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="943.0" r="4.2" fill="url(#cg1)"/>
+  <text x="118.0" y="948.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">C</text>
+
+  <rect x="214.0" y="922.0" width="178" height="42" rx="21" fill="#1b2438" stroke="url(#cg1)" stroke-width="1.1"/>
+  <circle cx="234.0" cy="943.0" r="4.2" fill="url(#cg1)"/>
+  <text x="248.0" y="948.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">R Programming</text>
+
+  <rect x="404.0" y="922.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg1)" stroke-width="1.1"/>
+  <circle cx="424.0" cy="943.0" r="4.2" fill="url(#cg1)"/>
+  <text x="438.0" y="948.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Java</text>
+
+  <rect x="534.0" y="922.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg1)" stroke-width="1.1"/>
+  <circle cx="554.0" cy="943.0" r="4.2" fill="url(#cg1)"/>
+  <text x="568.0" y="948.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Python</text>
+
+  <rect x="664.0" y="922.0" width="150" height="42" rx="21" fill="#1b2438" stroke="url(#cg1)" stroke-width="1.1"/>
+  <circle cx="684.0" cy="943.0" r="4.2" fill="url(#cg1)"/>
+  <text x="698.0" y="948.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">JavaScript</text>
+
+  <rect x="826.0" y="922.0" width="150" height="42" rx="21" fill="#1b2438" stroke="url(#cg1)" stroke-width="1.1"/>
+  <circle cx="846.0" cy="943.0" r="4.2" fill="url(#cg1)"/>
+  <text x="860.0" y="948.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">TypeScript</text>
+
+  <rect x="988.0" y="922.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg1)" stroke-width="1.1"/>
+  <circle cx="1008.0" cy="943.0" r="4.2" fill="url(#cg1)"/>
+  <text x="1022.0" y="948.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">PHP</text>
+
+  <rect x="1118.0" y="922.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg1)" stroke-width="1.1"/>
+  <circle cx="1138.0" cy="943.0" r="4.2" fill="url(#cg1)"/>
+  <text x="1152.0" y="948.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">SQL</text>
+
+  <rect x="84.0" y="978.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg1)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="999.0" r="4.2" fill="url(#cg1)"/>
+  <text x="118.0" y="1004.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">HTML5</text>
+
+  <rect x="214.0" y="978.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg1)" stroke-width="1.1"/>
+  <circle cx="234.0" cy="999.0" r="4.2" fill="url(#cg1)"/>
+  <text x="248.0" y="1004.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">CSS3</text>
+
+  <line x1="84" y1="1032" x2="1246" y2="1032" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="1056" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg1)" letter-spacing="2.5">LEARN • CODE • CREATE</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="1156" width="1230" height="280" rx="26" fill="#131a2e" stroke="url(#cg2)" stroke-width="1.6"/>
+    <rect x="50" y="1156" width="1230" height="280" rx="26" fill="url(#cg2)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="1158" width="1226" height="4" rx="2" fill="url(#cg2)" opacity="0.7"/>
+
+  <circle cx="112" cy="1202" r="28" fill="url(#cg2)" opacity="0.14"/>
+  <text x="112" y="1211" text-anchor="middle" font-size="26">🌐</text>
+  <text x="162" y="1209" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">FRONTEND DEVELOPMENT</text>
+
+  <rect x="1148" y="1182" width="98" height="34" rx="17" fill="url(#cg2)"/>
+  <text x="1197.0" y="1204" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">10+ Tech</text>
+<line x1="84" y1="1234" x2="1246" y2="1234" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="1248.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg2)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="1269.0" r="4.2" fill="url(#cg2)"/>
+  <text x="118.0" y="1274.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">HTML5</text>
+
+  <rect x="214.0" y="1248.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg2)" stroke-width="1.1"/>
+  <circle cx="234.0" cy="1269.0" r="4.2" fill="url(#cg2)"/>
+  <text x="248.0" y="1274.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">CSS3</text>
+
+  <rect x="344.0" y="1248.0" width="150" height="42" rx="21" fill="#1b2438" stroke="url(#cg2)" stroke-width="1.1"/>
+  <circle cx="364.0" cy="1269.0" r="4.2" fill="url(#cg2)"/>
+  <text x="378.0" y="1274.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">JavaScript</text>
+
+  <rect x="506.0" y="1248.0" width="130" height="42" rx="21" fill="#1b2438" stroke="url(#cg2)" stroke-width="1.1"/>
+  <circle cx="526.0" cy="1269.0" r="4.2" fill="url(#cg2)"/>
+  <text x="540.0" y="1274.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">React.js</text>
+
+  <rect x="648.0" y="1248.0" width="169" height="42" rx="21" fill="#1b2438" stroke="url(#cg2)" stroke-width="1.1"/>
+  <circle cx="668.0" cy="1269.0" r="4.2" fill="url(#cg2)"/>
+  <text x="682.0" y="1274.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Tailwind CSS</text>
+
+  <rect x="829.0" y="1248.0" width="140" height="42" rx="21" fill="#1b2438" stroke="url(#cg2)" stroke-width="1.1"/>
+  <circle cx="849.0" cy="1269.0" r="4.2" fill="url(#cg2)"/>
+  <text x="863.0" y="1274.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Bootstrap</text>
+
+  <rect x="981.0" y="1248.0" width="178" height="42" rx="21" fill="#1b2438" stroke="url(#cg2)" stroke-width="1.1"/>
+  <circle cx="1001.0" cy="1269.0" r="4.2" fill="url(#cg2)"/>
+  <text x="1015.0" y="1274.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Framer Motion</text>
+
+  <rect x="84.0" y="1304.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg2)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="1325.0" r="4.2" fill="url(#cg2)"/>
+  <text x="118.0" y="1330.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">GSAP</text>
+
+  <rect x="214.0" y="1304.0" width="255" height="42" rx="21" fill="#1b2438" stroke="url(#cg2)" stroke-width="1.1"/>
+  <circle cx="234.0" cy="1325.0" r="4.2" fill="url(#cg2)"/>
+  <text x="248.0" y="1330.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Responsive Web Design</text>
+
+  <rect x="481.0" y="1304.0" width="207" height="42" rx="21" fill="#1b2438" stroke="url(#cg2)" stroke-width="1.1"/>
+  <circle cx="501.0" cy="1325.0" r="4.2" fill="url(#cg2)"/>
+  <text x="515.0" y="1330.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Glassmorphism UI</text>
+
+  <line x1="84" y1="1358" x2="1246" y2="1358" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="1382" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg2)" letter-spacing="2.5">MODERN • FAST • RESPONSIVE</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="1482" width="1230" height="280" rx="26" fill="#131a2e" stroke="url(#cg3)" stroke-width="1.6"/>
+    <rect x="50" y="1482" width="1230" height="280" rx="26" fill="url(#cg3)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="1484" width="1226" height="4" rx="2" fill="url(#cg3)" opacity="0.7"/>
+
+  <circle cx="112" cy="1528" r="28" fill="url(#cg3)" opacity="0.14"/>
+  <text x="112" y="1537" text-anchor="middle" font-size="26">⚙️</text>
+  <text x="162" y="1535" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">BACKEND DEVELOPMENT</text>
+
+  <rect x="1148" y="1508" width="98" height="34" rx="17" fill="url(#cg3)"/>
+  <text x="1197.0" y="1530" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">7+ Tools</text>
+<line x1="84" y1="1560" x2="1246" y2="1560" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="1574.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg3)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="1595.0" r="4.2" fill="url(#cg3)"/>
+  <text x="118.0" y="1600.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">PHP</text>
+
+  <rect x="214.0" y="1574.0" width="121" height="42" rx="21" fill="#1b2438" stroke="url(#cg3)" stroke-width="1.1"/>
+  <circle cx="234.0" cy="1595.0" r="4.2" fill="url(#cg3)"/>
+  <text x="248.0" y="1600.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Node.js</text>
+
+  <rect x="347.0" y="1574.0" width="150" height="42" rx="21" fill="#1b2438" stroke="url(#cg3)" stroke-width="1.1"/>
+  <circle cx="367.0" cy="1595.0" r="4.2" fill="url(#cg3)"/>
+  <text x="381.0" y="1600.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Express.js</text>
+
+  <rect x="509.0" y="1574.0" width="140" height="42" rx="21" fill="#1b2438" stroke="url(#cg3)" stroke-width="1.1"/>
+  <circle cx="529.0" cy="1595.0" r="4.2" fill="url(#cg3)"/>
+  <text x="543.0" y="1600.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">REST APIs</text>
+
+  <rect x="661.0" y="1574.0" width="188" height="42" rx="21" fill="#1b2438" stroke="url(#cg3)" stroke-width="1.1"/>
+  <circle cx="681.0" cy="1595.0" r="4.2" fill="url(#cg3)"/>
+  <text x="695.0" y="1600.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Authentication</text>
+
+  <rect x="861.0" y="1574.0" width="178" height="42" rx="21" fill="#1b2438" stroke="url(#cg3)" stroke-width="1.1"/>
+  <circle cx="881.0" cy="1595.0" r="4.2" fill="url(#cg3)"/>
+  <text x="895.0" y="1600.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Authorization</text>
+
+  <rect x="84.0" y="1630.0" width="198" height="42" rx="21" fill="#1b2438" stroke="url(#cg3)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="1651.0" r="4.2" fill="url(#cg3)"/>
+  <text x="118.0" y="1656.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">CRUD Operations</text>
+
+  <rect x="294.0" y="1630.0" width="226" height="42" rx="21" fill="#1b2438" stroke="url(#cg3)" stroke-width="1.1"/>
+  <circle cx="314.0" cy="1651.0" r="4.2" fill="url(#cg3)"/>
+  <text x="328.0" y="1656.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Session Management</text>
+
+  <line x1="84" y1="1684" x2="1246" y2="1684" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="1708" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg3)" letter-spacing="2.5">BUILD • SECURE • SCALE</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="1808" width="1230" height="224" rx="26" fill="#131a2e" stroke="url(#cg4)" stroke-width="1.6"/>
+    <rect x="50" y="1808" width="1230" height="224" rx="26" fill="url(#cg4)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="1810" width="1226" height="4" rx="2" fill="url(#cg4)" opacity="0.7"/>
+
+  <circle cx="112" cy="1854" r="28" fill="url(#cg4)" opacity="0.14"/>
+  <text x="112" y="1863" text-anchor="middle" font-size="26">🗄️</text>
+  <text x="162" y="1861" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">DATABASES</text>
+
+  <rect x="1122" y="1834" width="124" height="34" rx="17" fill="url(#cg4)"/>
+  <text x="1184.0" y="1856" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">4 Databases</text>
+<line x1="84" y1="1886" x2="1246" y2="1886" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="1900.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg4)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="1921.0" r="4.2" fill="url(#cg4)"/>
+  <text x="118.0" y="1926.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">MySQL</text>
+
+  <rect x="214.0" y="1900.0" width="121" height="42" rx="21" fill="#1b2438" stroke="url(#cg4)" stroke-width="1.1"/>
+  <circle cx="234.0" cy="1921.0" r="4.2" fill="url(#cg4)"/>
+  <text x="248.0" y="1926.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">MariaDB</text>
+
+  <rect x="347.0" y="1900.0" width="178" height="42" rx="21" fill="#1b2438" stroke="url(#cg4)" stroke-width="1.1"/>
+  <circle cx="367.0" cy="1921.0" r="4.2" fill="url(#cg4)"/>
+  <text x="381.0" y="1926.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Google Sheets</text>
+
+  <rect x="537.0" y="1900.0" width="207" height="42" rx="21" fill="#1b2438" stroke="url(#cg4)" stroke-width="1.1"/>
+  <circle cx="557.0" cy="1921.0" r="4.2" fill="url(#cg4)"/>
+  <text x="571.0" y="1926.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Firebase (Basic)</text>
+
+  <line x1="84" y1="1954" x2="1246" y2="1954" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="1978" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg4)" letter-spacing="2.5">STORE • MANAGE • GROW</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="2078" width="1230" height="280" rx="26" fill="#131a2e" stroke="url(#cg5)" stroke-width="1.6"/>
+    <rect x="50" y="2078" width="1230" height="280" rx="26" fill="url(#cg5)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="2080" width="1226" height="4" rx="2" fill="url(#cg5)" opacity="0.7"/>
+
+  <circle cx="112" cy="2124" r="28" fill="url(#cg5)" opacity="0.14"/>
+  <text x="112" y="2133" text-anchor="middle" font-size="26">🔐</text>
+  <text x="162" y="2131" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">SECURITY</text>
+
+  <rect x="1156" y="2104" width="90" height="34" rx="17" fill="url(#cg5)"/>
+  <text x="1201.0" y="2126" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">6 Tools</text>
+<line x1="84" y1="2156" x2="1246" y2="2156" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="2170.0" width="236" height="42" rx="21" fill="#1b2438" stroke="url(#cg5)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="2191.0" r="4.2" fill="url(#cg5)"/>
+  <text x="118.0" y="2196.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">User Authentication</text>
+
+  <rect x="332.0" y="2170.0" width="207" height="42" rx="21" fill="#1b2438" stroke="url(#cg5)" stroke-width="1.1"/>
+  <circle cx="352.0" cy="2191.0" r="4.2" fill="url(#cg5)"/>
+  <text x="366.0" y="2196.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Password Hashing</text>
+
+  <rect x="551.0" y="2170.0" width="121" height="42" rx="21" fill="#1b2438" stroke="url(#cg5)" stroke-width="1.1"/>
+  <circle cx="571.0" cy="2191.0" r="4.2" fill="url(#cg5)"/>
+  <text x="585.0" y="2196.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">CAPTCHA</text>
+
+  <rect x="684.0" y="2170.0" width="207" height="42" rx="21" fill="#1b2438" stroke="url(#cg5)" stroke-width="1.1"/>
+  <circle cx="704.0" cy="2191.0" r="4.2" fill="url(#cg5)"/>
+  <text x="718.0" y="2196.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">OTP Verification</text>
+
+  <rect x="903.0" y="2170.0" width="284" height="42" rx="21" fill="#1b2438" stroke="url(#cg5)" stroke-width="1.1"/>
+  <circle cx="923.0" cy="2191.0" r="4.2" fill="url(#cg5)"/>
+  <text x="937.0" y="2196.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">SQL Injection Prevention</text>
+
+  <rect x="84.0" y="2226.0" width="198" height="42" rx="21" fill="#1b2438" stroke="url(#cg5)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="2247.0" r="4.2" fill="url(#cg5)"/>
+  <text x="118.0" y="2252.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Form Validation</text>
+
+  <line x1="84" y1="2280" x2="1246" y2="2280" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="2304" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg5)" letter-spacing="2.5">PROTECT • VERIFY • STAY SAFE</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="2404" width="1230" height="336" rx="26" fill="#131a2e" stroke="url(#cg6)" stroke-width="1.6"/>
+    <rect x="50" y="2404" width="1230" height="336" rx="26" fill="url(#cg6)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="2406" width="1226" height="4" rx="2" fill="url(#cg6)" opacity="0.7"/>
+
+  <circle cx="112" cy="2450" r="28" fill="url(#cg6)" opacity="0.14"/>
+  <text x="112" y="2459" text-anchor="middle" font-size="26">🛡️</text>
+  <text x="162" y="2457" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">SECURITY &amp; OSINT TOOLS</text>
+
+  <rect x="1139" y="2430" width="107" height="34" rx="17" fill="url(#cg6)"/>
+  <text x="1192.5" y="2452" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">16+ Tools</text>
+<line x1="84" y1="2482" x2="1246" y2="2482" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="2496.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg6)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="2517.0" r="4.2" fill="url(#cg6)"/>
+  <text x="118.0" y="2522.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Seeker</text>
+
+  <rect x="214.0" y="2496.0" width="159" height="42" rx="21" fill="#1b2438" stroke="url(#cg6)" stroke-width="1.1"/>
+  <circle cx="234.0" cy="2517.0" r="4.2" fill="url(#cg6)"/>
+  <text x="248.0" y="2522.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">PhoneInfoga</text>
+
+  <rect x="385.0" y="2496.0" width="198" height="42" rx="21" fill="#1b2438" stroke="url(#cg6)" stroke-width="1.1"/>
+  <circle cx="405.0" cy="2517.0" r="4.2" fill="url(#cg6)"/>
+  <text x="419.0" y="2522.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Social Analyzer</text>
+
+  <rect x="595.0" y="2496.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg6)" stroke-width="1.1"/>
+  <circle cx="615.0" cy="2517.0" r="4.2" fill="url(#cg6)"/>
+  <text x="629.0" y="2522.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Hound</text>
+
+  <rect x="725.0" y="2496.0" width="140" height="42" rx="21" fill="#1b2438" stroke="url(#cg6)" stroke-width="1.1"/>
+  <circle cx="745.0" cy="2517.0" r="4.2" fill="url(#cg6)"/>
+  <text x="759.0" y="2522.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Mr Holmes</text>
+
+  <rect x="877.0" y="2496.0" width="159" height="42" rx="21" fill="#1b2438" stroke="url(#cg6)" stroke-width="1.1"/>
+  <circle cx="897.0" cy="2517.0" r="4.2" fill="url(#cg6)"/>
+  <text x="911.0" y="2522.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">IP Analyzer</text>
+
+  <rect x="1048.0" y="2496.0" width="169" height="42" rx="21" fill="#1b2438" stroke="url(#cg6)" stroke-width="1.1"/>
+  <circle cx="1068.0" cy="2517.0" r="4.2" fill="url(#cg6)"/>
+  <text x="1082.0" y="2522.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Th3Inspector</text>
+
+  <rect x="84.0" y="2552.0" width="169" height="42" rx="21" fill="#1b2438" stroke="url(#cg6)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="2573.0" r="4.2" fill="url(#cg6)"/>
+  <text x="118.0" y="2578.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">PhantomDroid</text>
+
+  <rect x="265.0" y="2552.0" width="236" height="42" rx="21" fill="#1b2438" stroke="url(#cg6)" stroke-width="1.1"/>
+  <circle cx="285.0" cy="2573.0" r="4.2" fill="url(#cg6)"/>
+  <text x="299.0" y="2578.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">ALHacking Framework</text>
+
+  <rect x="513.0" y="2552.0" width="150" height="42" rx="21" fill="#1b2438" stroke="url(#cg6)" stroke-width="1.1"/>
+  <circle cx="533.0" cy="2573.0" r="4.2" fill="url(#cg6)"/>
+  <text x="547.0" y="2578.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">GhostTrack</text>
+
+  <rect x="675.0" y="2552.0" width="159" height="42" rx="21" fill="#1b2438" stroke="url(#cg6)" stroke-width="1.1"/>
+  <circle cx="695.0" cy="2573.0" r="4.2" fill="url(#cg6)"/>
+  <text x="709.0" y="2578.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">InstaXploit</text>
+
+  <rect x="846.0" y="2552.0" width="159" height="42" rx="21" fill="#1b2438" stroke="url(#cg6)" stroke-width="1.1"/>
+  <circle cx="866.0" cy="2573.0" r="4.2" fill="url(#cg6)"/>
+  <text x="880.0" y="2578.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Phonextract</text>
+
+  <rect x="84.0" y="2608.0" width="380" height="42" rx="21" fill="#1b2438" stroke="url(#cg6)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="2629.0" r="4.2" fill="url(#cg6)"/>
+  <text x="118.0" y="2634.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">NexPhisher (Educational / Lab Use)</text>
+
+  <rect x="476.0" y="2608.0" width="380" height="42" rx="21" fill="#1b2438" stroke="url(#cg6)" stroke-width="1.1"/>
+  <circle cx="496.0" cy="2629.0" r="4.2" fill="url(#cg6)"/>
+  <text x="510.0" y="2634.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Dark-Phish (Educational / Lab Use)</text>
+
+  <rect x="868.0" y="2608.0" width="130" height="42" rx="21" fill="#1b2438" stroke="url(#cg6)" stroke-width="1.1"/>
+  <circle cx="888.0" cy="2629.0" r="4.2" fill="url(#cg6)"/>
+  <text x="902.0" y="2634.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">GEOVAULT</text>
+
+  <rect x="1010.0" y="2608.0" width="121" height="42" rx="21" fill="#1b2438" stroke="url(#cg6)" stroke-width="1.1"/>
+  <circle cx="1030.0" cy="2629.0" r="4.2" fill="url(#cg6)"/>
+  <text x="1044.0" y="2634.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">BTSTORM</text>
+
+  <line x1="84" y1="2662" x2="1246" y2="2662" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="2686" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg6)" letter-spacing="2.5">RESEARCH • ETHICAL • LAB USE ONLY</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="2786" width="1230" height="448" rx="26" fill="#131a2e" stroke="url(#cg7)" stroke-width="1.6"/>
+    <rect x="50" y="2786" width="1230" height="448" rx="26" fill="url(#cg7)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="2788" width="1226" height="4" rx="2" fill="url(#cg7)" opacity="0.7"/>
+
+  <circle cx="112" cy="2832" r="28" fill="url(#cg7)" opacity="0.14"/>
+  <text x="112" y="2841" text-anchor="middle" font-size="26">🤖</text>
+  <text x="162" y="2839" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">AI ASSISTANTS &amp; LLMs</text>
+
+  <rect x="1113" y="2812" width="133" height="34" rx="17" fill="url(#cg7)"/>
+  <text x="1179.5" y="2834" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">30+ AI Tools</text>
+<line x1="84" y1="2864" x2="1246" y2="2864" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="2878.0" width="121" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="2899.0" r="4.2" fill="url(#cg7)"/>
+  <text x="118.0" y="2904.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">ChatGPT</text>
+
+  <rect x="217.0" y="2878.0" width="178" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="237.0" cy="2899.0" r="4.2" fill="url(#cg7)"/>
+  <text x="251.0" y="2904.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Google Gemini</text>
+
+  <rect x="407.0" y="2878.0" width="207" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="427.0" cy="2899.0" r="4.2" fill="url(#cg7)"/>
+  <text x="441.0" y="2904.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Google AI Studio</text>
+
+  <rect x="626.0" y="2878.0" width="217" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="646.0" cy="2899.0" r="4.2" fill="url(#cg7)"/>
+  <text x="660.0" y="2904.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Google Gemini CLI</text>
+
+  <rect x="855.0" y="2878.0" width="140" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="875.0" cy="2899.0" r="4.2" fill="url(#cg7)"/>
+  <text x="889.0" y="2904.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Claude AI</text>
+
+  <rect x="1007.0" y="2878.0" width="159" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="1027.0" cy="2899.0" r="4.2" fill="url(#cg7)"/>
+  <text x="1041.0" y="2904.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Claude Code</text>
+
+  <rect x="84.0" y="2934.0" width="159" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="2955.0" r="4.2" fill="url(#cg7)"/>
+  <text x="118.0" y="2960.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">DeepSeek AI</text>
+
+  <rect x="255.0" y="2934.0" width="121" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="275.0" cy="2955.0" r="4.2" fill="url(#cg7)"/>
+  <text x="289.0" y="2960.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Qwen AI</text>
+
+  <rect x="388.0" y="2934.0" width="159" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="408.0" cy="2955.0" r="4.2" fill="url(#cg7)"/>
+  <text x="422.0" y="2960.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Qwen Studio</text>
+
+  <rect x="559.0" y="2934.0" width="121" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="579.0" cy="2955.0" r="4.2" fill="url(#cg7)"/>
+  <text x="593.0" y="2960.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Kimi AI</text>
+
+  <rect x="692.0" y="2934.0" width="159" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="712.0" cy="2955.0" r="4.2" fill="url(#cg7)"/>
+  <text x="726.0" y="2960.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Genspark AI</text>
+
+  <rect x="863.0" y="2934.0" width="121" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="883.0" cy="2955.0" r="4.2" fill="url(#cg7)"/>
+  <text x="897.0" y="2960.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Grok AI</text>
+
+  <rect x="996.0" y="2934.0" width="178" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="1016.0" cy="2955.0" r="4.2" fill="url(#cg7)"/>
+  <text x="1030.0" y="2960.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Perplexity AI</text>
+
+  <rect x="84.0" y="2990.0" width="159" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="3011.0" r="4.2" fill="url(#cg7)"/>
+  <text x="118.0" y="3016.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Blackbox AI</text>
+
+  <rect x="255.0" y="2990.0" width="130" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="275.0" cy="3011.0" r="4.2" fill="url(#cg7)"/>
+  <text x="289.0" y="3016.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">LM Arena</text>
+
+  <rect x="397.0" y="2990.0" width="169" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="417.0" cy="3011.0" r="4.2" fill="url(#cg7)"/>
+  <text x="431.0" y="3016.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Design Arena</text>
+
+  <rect x="578.0" y="2990.0" width="150" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="598.0" cy="3011.0" r="4.2" fill="url(#cg7)"/>
+  <text x="612.0" y="3016.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">NotebookLM</text>
+
+  <rect x="740.0" y="2990.0" width="217" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="760.0" cy="3011.0" r="4.2" fill="url(#cg7)"/>
+  <text x="774.0" y="3016.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Microsoft Copilot</text>
+
+  <rect x="969.0" y="2990.0" width="188" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="989.0" cy="3011.0" r="4.2" fill="url(#cg7)"/>
+  <text x="1003.0" y="3016.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">GitHub Copilot</text>
+
+  <rect x="84.0" y="3046.0" width="140" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="3067.0" r="4.2" fill="url(#cg7)"/>
+  <text x="118.0" y="3072.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Base44 AI</text>
+
+  <rect x="236.0" y="3046.0" width="140" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="256.0" cy="3067.0" r="4.2" fill="url(#cg7)"/>
+  <text x="270.0" y="3072.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Delulu AI</text>
+
+  <rect x="388.0" y="3046.0" width="178" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="408.0" cy="3067.0" r="4.2" fill="url(#cg7)"/>
+  <text x="422.0" y="3072.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Google Stitch</text>
+
+  <rect x="578.0" y="3046.0" width="178" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="598.0" cy="3067.0" r="4.2" fill="url(#cg7)"/>
+  <text x="612.0" y="3072.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Higgsfield AI</text>
+
+  <rect x="768.0" y="3046.0" width="140" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="788.0" cy="3067.0" r="4.2" fill="url(#cg7)"/>
+  <text x="802.0" y="3072.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">LibreChat</text>
+
+  <rect x="920.0" y="3046.0" width="140" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="940.0" cy="3067.0" r="4.2" fill="url(#cg7)"/>
+  <text x="954.0" y="3072.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Cursor AI</text>
+
+  <rect x="1072.0" y="3046.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="1092.0" cy="3067.0" r="4.2" fill="url(#cg7)"/>
+  <text x="1106.0" y="3072.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Kiro</text>
+
+  <rect x="84.0" y="3102.0" width="130" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="3123.0" r="4.2" fill="url(#cg7)"/>
+  <text x="118.0" y="3128.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">OpenCode</text>
+
+  <rect x="226.0" y="3102.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="246.0" cy="3123.0" r="4.2" fill="url(#cg7)"/>
+  <text x="260.0" y="3128.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Coder</text>
+
+  <rect x="356.0" y="3102.0" width="130" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="376.0" cy="3123.0" r="4.2" fill="url(#cg7)"/>
+  <text x="390.0" y="3128.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Trae IDE</text>
+
+  <rect x="498.0" y="3102.0" width="188" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="518.0" cy="3123.0" r="4.2" fill="url(#cg7)"/>
+  <text x="532.0" y="3128.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Antigravity AI</text>
+
+  <rect x="698.0" y="3102.0" width="159" height="42" rx="21" fill="#1b2438" stroke="url(#cg7)" stroke-width="1.1"/>
+  <circle cx="718.0" cy="3123.0" r="4.2" fill="url(#cg7)"/>
+  <text x="732.0" y="3128.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Google Flow</text>
+
+  <line x1="84" y1="3156" x2="1246" y2="3156" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="3180" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg7)" letter-spacing="2.5">SMARTER AI • ENDLESS POSSIBILITIES</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="3280" width="1230" height="280" rx="26" fill="#131a2e" stroke="url(#cg8)" stroke-width="1.6"/>
+    <rect x="50" y="3280" width="1230" height="280" rx="26" fill="url(#cg8)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="3282" width="1226" height="4" rx="2" fill="url(#cg8)" opacity="0.7"/>
+
+  <circle cx="112" cy="3326" r="28" fill="url(#cg8)" opacity="0.14"/>
+  <text x="112" y="3335" text-anchor="middle" font-size="26">🎨</text>
+  <text x="162" y="3333" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">UI/UX &amp; DESIGN</text>
+
+  <rect x="1156" y="3306" width="90" height="34" rx="17" fill="url(#cg8)"/>
+  <text x="1201.0" y="3328" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">9 Tools</text>
+<line x1="84" y1="3358" x2="1246" y2="3358" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="3372.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg8)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="3393.0" r="4.2" fill="url(#cg8)"/>
+  <text x="118.0" y="3398.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Figma</text>
+
+  <rect x="214.0" y="3372.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg8)" stroke-width="1.1"/>
+  <circle cx="234.0" cy="3393.0" r="4.2" fill="url(#cg8)"/>
+  <text x="248.0" y="3398.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Canva</text>
+
+  <rect x="344.0" y="3372.0" width="178" height="42" rx="21" fill="#1b2438" stroke="url(#cg8)" stroke-width="1.1"/>
+  <circle cx="364.0" cy="3393.0" r="4.2" fill="url(#cg8)"/>
+  <text x="378.0" y="3398.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Adobe Express</text>
+
+  <rect x="534.0" y="3372.0" width="178" height="42" rx="21" fill="#1b2438" stroke="url(#cg8)" stroke-width="1.1"/>
+  <circle cx="554.0" cy="3393.0" r="4.2" fill="url(#cg8)"/>
+  <text x="568.0" y="3398.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Google Stitch</text>
+
+  <rect x="724.0" y="3372.0" width="178" height="42" rx="21" fill="#1b2438" stroke="url(#cg8)" stroke-width="1.1"/>
+  <circle cx="744.0" cy="3393.0" r="4.2" fill="url(#cg8)"/>
+  <text x="758.0" y="3398.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Glassmorphism</text>
+
+  <rect x="914.0" y="3372.0" width="169" height="42" rx="21" fill="#1b2438" stroke="url(#cg8)" stroke-width="1.1"/>
+  <circle cx="934.0" cy="3393.0" r="4.2" fill="url(#cg8)"/>
+  <text x="948.0" y="3398.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">UI/UX Design</text>
+
+  <rect x="84.0" y="3428.0" width="217" height="42" rx="21" fill="#1b2438" stroke="url(#cg8)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="3449.0" r="4.2" fill="url(#cg8)"/>
+  <text x="118.0" y="3454.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Responsive Design</text>
+
+  <rect x="313.0" y="3428.0" width="159" height="42" rx="21" fill="#1b2438" stroke="url(#cg8)" stroke-width="1.1"/>
+  <circle cx="333.0" cy="3449.0" r="4.2" fill="url(#cg8)"/>
+  <text x="347.0" y="3454.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Logo Design</text>
+
+  <rect x="484.0" y="3428.0" width="207" height="42" rx="21" fill="#1b2438" stroke="url(#cg8)" stroke-width="1.1"/>
+  <circle cx="504.0" cy="3449.0" r="4.2" fill="url(#cg8)"/>
+  <text x="518.0" y="3454.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Thumbnail Design</text>
+
+  <line x1="84" y1="3482" x2="1246" y2="3482" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="3506" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg8)" letter-spacing="2.5">DESIGN • INSPIRE • ENGAGE</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="3606" width="1230" height="224" rx="26" fill="#131a2e" stroke="url(#cg9)" stroke-width="1.6"/>
+    <rect x="50" y="3606" width="1230" height="224" rx="26" fill="url(#cg9)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="3608" width="1226" height="4" rx="2" fill="url(#cg9)" opacity="0.7"/>
+
+  <circle cx="112" cy="3652" r="28" fill="url(#cg9)" opacity="0.14"/>
+  <text x="112" y="3661" text-anchor="middle" font-size="26">🔄</text>
+  <text x="162" y="3659" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">VERSION CONTROL</text>
+
+  <rect x="1156" y="3632" width="90" height="34" rx="17" fill="url(#cg9)"/>
+  <text x="1201.0" y="3654" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">3 Tools</text>
+<line x1="84" y1="3684" x2="1246" y2="3684" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="3698.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg9)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="3719.0" r="4.2" fill="url(#cg9)"/>
+  <text x="118.0" y="3724.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Git</text>
+
+  <rect x="214.0" y="3698.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg9)" stroke-width="1.1"/>
+  <circle cx="234.0" cy="3719.0" r="4.2" fill="url(#cg9)"/>
+  <text x="248.0" y="3724.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">GitHub</text>
+
+  <rect x="344.0" y="3698.0" width="169" height="42" rx="21" fill="#1b2438" stroke="url(#cg9)" stroke-width="1.1"/>
+  <circle cx="364.0" cy="3719.0" r="4.2" fill="url(#cg9)"/>
+  <text x="378.0" y="3724.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">GitHub Pages</text>
+
+  <line x1="84" y1="3752" x2="1246" y2="3752" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="3776" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg9)" letter-spacing="2.5">TRACK • COLLABORATE • SHIP</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="3876" width="1230" height="280" rx="26" fill="#131a2e" stroke="url(#cg10)" stroke-width="1.6"/>
+    <rect x="50" y="3876" width="1230" height="280" rx="26" fill="url(#cg10)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="3878" width="1226" height="4" rx="2" fill="url(#cg10)" opacity="0.7"/>
+
+  <circle cx="112" cy="3922" r="28" fill="url(#cg10)" opacity="0.14"/>
+  <text x="112" y="3931" text-anchor="middle" font-size="26">🛠️</text>
+  <text x="162" y="3929" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">CODE EDITORS &amp; IDEs</text>
+
+  <rect x="1156" y="3902" width="90" height="34" rx="17" fill="url(#cg10)"/>
+  <text x="1201.0" y="3924" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">7+ IDEs</text>
+<line x1="84" y1="3954" x2="1246" y2="3954" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="3968.0" width="226" height="42" rx="21" fill="#1b2438" stroke="url(#cg10)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="3989.0" r="4.2" fill="url(#cg10)"/>
+  <text x="118.0" y="3994.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Visual Studio Code</text>
+
+  <rect x="322.0" y="3968.0" width="130" height="42" rx="21" fill="#1b2438" stroke="url(#cg10)" stroke-width="1.1"/>
+  <circle cx="342.0" cy="3989.0" r="4.2" fill="url(#cg10)"/>
+  <text x="356.0" y="3994.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Trae IDE</text>
+
+  <rect x="464.0" y="3968.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg10)" stroke-width="1.1"/>
+  <circle cx="484.0" cy="3989.0" r="4.2" fill="url(#cg10)"/>
+  <text x="498.0" y="3994.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Cursor</text>
+
+  <rect x="594.0" y="3968.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg10)" stroke-width="1.1"/>
+  <circle cx="614.0" cy="3989.0" r="4.2" fill="url(#cg10)"/>
+  <text x="628.0" y="3994.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Kiro</text>
+
+  <rect x="724.0" y="3968.0" width="130" height="42" rx="21" fill="#1b2438" stroke="url(#cg10)" stroke-width="1.1"/>
+  <circle cx="744.0" cy="3989.0" r="4.2" fill="url(#cg10)"/>
+  <text x="758.0" y="3994.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">OpenCode</text>
+
+  <rect x="866.0" y="3968.0" width="121" height="42" rx="21" fill="#1b2438" stroke="url(#cg10)" stroke-width="1.1"/>
+  <circle cx="886.0" cy="3989.0" r="4.2" fill="url(#cg10)"/>
+  <text x="900.0" y="3994.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">CodePen</text>
+
+  <rect x="84.0" y="4024.0" width="294" height="42" rx="21" fill="#1b2438" stroke="url(#cg10)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="4045.0" r="4.2" fill="url(#cg10)"/>
+  <text x="118.0" y="4050.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">GitHub Codespaces (Basic)</text>
+
+  <line x1="84" y1="4078" x2="1246" y2="4078" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="4102" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg10)" letter-spacing="2.5">WRITE • RUN • BUILD</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="4202" width="1230" height="224" rx="26" fill="#131a2e" stroke="url(#cg11)" stroke-width="1.6"/>
+    <rect x="50" y="4202" width="1230" height="224" rx="26" fill="url(#cg11)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="4204" width="1226" height="4" rx="2" fill="url(#cg11)" opacity="0.7"/>
+
+  <circle cx="112" cy="4248" r="28" fill="url(#cg11)" opacity="0.14"/>
+  <text x="112" y="4257" text-anchor="middle" font-size="26">📡</text>
+  <text x="162" y="4255" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">APIs &amp; WEB TECHNOLOGIES</text>
+
+  <rect x="1165" y="4228" width="81" height="34" rx="17" fill="url(#cg11)"/>
+  <text x="1205.5" y="4250" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">4 Tech</text>
+<line x1="84" y1="4280" x2="1246" y2="4280" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="4294.0" width="130" height="42" rx="21" fill="#1b2438" stroke="url(#cg11)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="4315.0" r="4.2" fill="url(#cg11)"/>
+  <text x="118.0" y="4320.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">REST API</text>
+
+  <rect x="226.0" y="4294.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg11)" stroke-width="1.1"/>
+  <circle cx="246.0" cy="4315.0" r="4.2" fill="url(#cg11)"/>
+  <text x="260.0" y="4320.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">JSON</text>
+
+  <rect x="356.0" y="4294.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg11)" stroke-width="1.1"/>
+  <circle cx="376.0" cy="4315.0" r="4.2" fill="url(#cg11)"/>
+  <text x="390.0" y="4320.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">AJAX</text>
+
+  <rect x="486.0" y="4294.0" width="140" height="42" rx="21" fill="#1b2438" stroke="url(#cg11)" stroke-width="1.1"/>
+  <circle cx="506.0" cy="4315.0" r="4.2" fill="url(#cg11)"/>
+  <text x="520.0" y="4320.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Fetch API</text>
+
+  <line x1="84" y1="4348" x2="1246" y2="4348" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="4372" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg11)" letter-spacing="2.5">CONNECT • INTEGRATE • BUILD</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="4472" width="1230" height="224" rx="26" fill="#131a2e" stroke="url(#cg12)" stroke-width="1.6"/>
+    <rect x="50" y="4472" width="1230" height="224" rx="26" fill="url(#cg12)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="4474" width="1226" height="4" rx="2" fill="url(#cg12)" opacity="0.7"/>
+
+  <circle cx="112" cy="4518" r="28" fill="url(#cg12)" opacity="0.14"/>
+  <text x="112" y="4527" text-anchor="middle" font-size="26">🐧</text>
+  <text x="162" y="4525" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">OPERATING SYSTEMS</text>
+
+  <rect x="1176" y="4498" width="70" height="34" rx="17" fill="url(#cg12)"/>
+  <text x="1211.0" y="4520" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">3 OS</text>
+<line x1="84" y1="4550" x2="1246" y2="4550" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="4564.0" width="236" height="42" rx="21" fill="#1b2438" stroke="url(#cg12)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="4585.0" r="4.2" fill="url(#cg12)"/>
+  <text x="118.0" y="4590.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Windows 7 / 10 / 11</text>
+
+  <rect x="332.0" y="4564.0" width="150" height="42" rx="21" fill="#1b2438" stroke="url(#cg12)" stroke-width="1.1"/>
+  <circle cx="352.0" cy="4585.0" r="4.2" fill="url(#cg12)"/>
+  <text x="366.0" y="4590.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Kali Linux</text>
+
+  <rect x="494.0" y="4564.0" width="370" height="42" rx="21" fill="#1b2438" stroke="url(#cg12)" stroke-width="1.1"/>
+  <circle cx="514.0" cy="4585.0" r="4.2" fill="url(#cg12)"/>
+  <text x="528.0" y="4590.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Windows Subsystem for Linux (WSL)</text>
+
+  <line x1="84" y1="4618" x2="1246" y2="4618" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="4642" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg12)" letter-spacing="2.5">LINUX POWERS FREEDOM</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="4742" width="1230" height="224" rx="26" fill="#131a2e" stroke="url(#cg13)" stroke-width="1.6"/>
+    <rect x="50" y="4742" width="1230" height="224" rx="26" fill="url(#cg13)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="4744" width="1226" height="4" rx="2" fill="url(#cg13)" opacity="0.7"/>
+
+  <circle cx="112" cy="4788" r="28" fill="url(#cg13)" opacity="0.14"/>
+  <text x="112" y="4797" text-anchor="middle" font-size="26">☁️</text>
+  <text x="162" y="4795" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">DEPLOYMENT &amp; HOSTING</text>
+
+  <rect x="1122" y="4768" width="124" height="34" rx="17" fill="url(#cg13)"/>
+  <text x="1184.0" y="4790" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">6 Platforms</text>
+<line x1="84" y1="4820" x2="1246" y2="4820" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="4834.0" width="169" height="42" rx="21" fill="#1b2438" stroke="url(#cg13)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="4855.0" r="4.2" fill="url(#cg13)"/>
+  <text x="118.0" y="4860.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">GitHub Pages</text>
+
+  <rect x="265.0" y="4834.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg13)" stroke-width="1.1"/>
+  <circle cx="285.0" cy="4855.0" r="4.2" fill="url(#cg13)"/>
+  <text x="299.0" y="4860.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Vercel</text>
+
+  <rect x="395.0" y="4834.0" width="121" height="42" rx="21" fill="#1b2438" stroke="url(#cg13)" stroke-width="1.1"/>
+  <circle cx="415.0" cy="4855.0" r="4.2" fill="url(#cg13)"/>
+  <text x="429.0" y="4860.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Netlify</text>
+
+  <rect x="528.0" y="4834.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg13)" stroke-width="1.1"/>
+  <circle cx="548.0" cy="4855.0" r="4.2" fill="url(#cg13)"/>
+  <text x="562.0" y="4860.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">XAMPP</text>
+
+  <rect x="658.0" y="4834.0" width="169" height="42" rx="21" fill="#1b2438" stroke="url(#cg13)" stroke-width="1.1"/>
+  <circle cx="678.0" cy="4855.0" r="4.2" fill="url(#cg13)"/>
+  <text x="692.0" y="4860.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">InfinityFree</text>
+
+  <rect x="839.0" y="4834.0" width="140" height="42" rx="21" fill="#1b2438" stroke="url(#cg13)" stroke-width="1.1"/>
+  <circle cx="859.0" cy="4855.0" r="4.2" fill="url(#cg13)"/>
+  <text x="873.0" y="4860.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Hostinger</text>
+
+  <line x1="84" y1="4888" x2="1246" y2="4888" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="4912" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg13)" letter-spacing="2.5">DEPLOY • SCALE • GO LIVE</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="5012" width="1230" height="224" rx="26" fill="#131a2e" stroke="url(#cg14)" stroke-width="1.6"/>
+    <rect x="50" y="5012" width="1230" height="224" rx="26" fill="url(#cg14)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="5014" width="1226" height="4" rx="2" fill="url(#cg14)" opacity="0.7"/>
+
+  <circle cx="112" cy="5058" r="28" fill="url(#cg14)" opacity="0.14"/>
+  <text x="112" y="5067" text-anchor="middle" font-size="26">🌍</text>
+  <text x="162" y="5065" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">BROWSERS &amp; DEVELOPER TOOLS</text>
+
+  <rect x="1156" y="5038" width="90" height="34" rx="17" fill="url(#cg14)"/>
+  <text x="1201.0" y="5060" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">4 Tools</text>
+<line x1="84" y1="5090" x2="1246" y2="5090" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="5104.0" width="198" height="42" rx="21" fill="#1b2438" stroke="url(#cg14)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="5125.0" r="4.2" fill="url(#cg14)"/>
+  <text x="118.0" y="5130.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Chrome DevTools</text>
+
+  <rect x="294.0" y="5104.0" width="188" height="42" rx="21" fill="#1b2438" stroke="url(#cg14)" stroke-width="1.1"/>
+  <circle cx="314.0" cy="5125.0" r="4.2" fill="url(#cg14)"/>
+  <text x="328.0" y="5130.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Microsoft Edge</text>
+
+  <rect x="494.0" y="5104.0" width="169" height="42" rx="21" fill="#1b2438" stroke="url(#cg14)" stroke-width="1.1"/>
+  <circle cx="514.0" cy="5125.0" r="4.2" fill="url(#cg14)"/>
+  <text x="528.0" y="5130.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Edge Gallery</text>
+
+  <rect x="675.0" y="5104.0" width="121" height="42" rx="21" fill="#1b2438" stroke="url(#cg14)" stroke-width="1.1"/>
+  <circle cx="695.0" cy="5125.0" r="4.2" fill="url(#cg14)"/>
+  <text x="709.0" y="5130.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Firefox</text>
+
+  <line x1="84" y1="5158" x2="1246" y2="5158" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="5182" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg14)" letter-spacing="2.5">INSPECT • DEBUG • BUILD</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="5282" width="1230" height="280" rx="26" fill="#131a2e" stroke="url(#cg15)" stroke-width="1.6"/>
+    <rect x="50" y="5282" width="1230" height="280" rx="26" fill="url(#cg15)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="5284" width="1226" height="4" rx="2" fill="url(#cg15)" opacity="0.7"/>
+
+  <circle cx="112" cy="5328" r="28" fill="url(#cg15)" opacity="0.14"/>
+  <text x="112" y="5337" text-anchor="middle" font-size="26">📄</text>
+  <text x="162" y="5335" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">OFFICE &amp; PRODUCTIVITY</text>
+
+  <rect x="1156" y="5308" width="90" height="34" rx="17" fill="url(#cg15)"/>
+  <text x="1201.0" y="5330" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">7 Tools</text>
+<line x1="84" y1="5360" x2="1246" y2="5360" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="5374.0" width="188" height="42" rx="21" fill="#1b2438" stroke="url(#cg15)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="5395.0" r="4.2" fill="url(#cg15)"/>
+  <text x="118.0" y="5400.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Microsoft Word</text>
+
+  <rect x="284.0" y="5374.0" width="198" height="42" rx="21" fill="#1b2438" stroke="url(#cg15)" stroke-width="1.1"/>
+  <circle cx="304.0" cy="5395.0" r="4.2" fill="url(#cg15)"/>
+  <text x="318.0" y="5400.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Microsoft Excel</text>
+
+  <rect x="494.0" y="5374.0" width="246" height="42" rx="21" fill="#1b2438" stroke="url(#cg15)" stroke-width="1.1"/>
+  <circle cx="514.0" cy="5395.0" r="4.2" fill="url(#cg15)"/>
+  <text x="528.0" y="5400.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Microsoft PowerPoint</text>
+
+  <rect x="752.0" y="5374.0" width="159" height="42" rx="21" fill="#1b2438" stroke="url(#cg15)" stroke-width="1.1"/>
+  <circle cx="772.0" cy="5395.0" r="4.2" fill="url(#cg15)"/>
+  <text x="786.0" y="5400.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Google Docs</text>
+
+  <rect x="923.0" y="5374.0" width="178" height="42" rx="21" fill="#1b2438" stroke="url(#cg15)" stroke-width="1.1"/>
+  <circle cx="943.0" cy="5395.0" r="4.2" fill="url(#cg15)"/>
+  <text x="957.0" y="5400.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Google Sheets</text>
+
+  <rect x="84.0" y="5430.0" width="169" height="42" rx="21" fill="#1b2438" stroke="url(#cg15)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="5451.0" r="4.2" fill="url(#cg15)"/>
+  <text x="118.0" y="5456.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Google Forms</text>
+
+  <rect x="265.0" y="5430.0" width="169" height="42" rx="21" fill="#1b2438" stroke="url(#cg15)" stroke-width="1.1"/>
+  <circle cx="285.0" cy="5451.0" r="4.2" fill="url(#cg15)"/>
+  <text x="299.0" y="5456.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Google Drive</text>
+
+  <line x1="84" y1="5484" x2="1246" y2="5484" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="5508" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg15)" letter-spacing="2.5">WORK SMARTER • ACHIEVE MORE</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="5608" width="1230" height="224" rx="26" fill="#131a2e" stroke="url(#cg16)" stroke-width="1.6"/>
+    <rect x="50" y="5608" width="1230" height="224" rx="26" fill="url(#cg16)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="5610" width="1226" height="4" rx="2" fill="url(#cg16)" opacity="0.7"/>
+
+  <circle cx="112" cy="5654" r="28" fill="url(#cg16)" opacity="0.14"/>
+  <text x="112" y="5663" text-anchor="middle" font-size="26">🎬</text>
+  <text x="162" y="5661" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">VIDEO EDITING &amp; MOTION GRAPHICS</text>
+
+  <rect x="1156" y="5634" width="90" height="34" rx="17" fill="url(#cg16)"/>
+  <text x="1201.0" y="5656" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">4 Tools</text>
+<line x1="84" y1="5686" x2="1246" y2="5686" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="5700.0" width="118" height="42" rx="21" fill="#1b2438" stroke="url(#cg16)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="5721.0" r="4.2" fill="url(#cg16)"/>
+  <text x="118.0" y="5726.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">CapCut</text>
+
+  <rect x="214.0" y="5700.0" width="178" height="42" rx="21" fill="#1b2438" stroke="url(#cg16)" stroke-width="1.1"/>
+  <circle cx="234.0" cy="5721.0" r="4.2" fill="url(#cg16)"/>
+  <text x="248.0" y="5726.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Alight Motion</text>
+
+  <rect x="404.0" y="5700.0" width="169" height="42" rx="21" fill="#1b2438" stroke="url(#cg16)" stroke-width="1.1"/>
+  <circle cx="424.0" cy="5721.0" r="4.2" fill="url(#cg16)"/>
+  <text x="438.0" y="5726.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Motion Ninja</text>
+
+  <rect x="585.0" y="5700.0" width="121" height="42" rx="21" fill="#1b2438" stroke="url(#cg16)" stroke-width="1.1"/>
+  <circle cx="605.0" cy="5721.0" r="4.2" fill="url(#cg16)"/>
+  <text x="619.0" y="5726.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">KwaiCut</text>
+
+  <line x1="84" y1="5754" x2="1246" y2="5754" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="5778" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg16)" letter-spacing="2.5">EDIT • ANIMATE • CREATE</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="5878" width="1230" height="224" rx="26" fill="#131a2e" stroke="url(#cg17)" stroke-width="1.6"/>
+    <rect x="50" y="5878" width="1230" height="224" rx="26" fill="url(#cg17)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="5880" width="1226" height="4" rx="2" fill="url(#cg17)" opacity="0.7"/>
+
+  <circle cx="112" cy="5924" r="28" fill="url(#cg17)" opacity="0.14"/>
+  <text x="112" y="5933" text-anchor="middle" font-size="26">📈</text>
+  <text x="162" y="5931" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">SEO &amp; CONTENT CREATION</text>
+
+  <rect x="1148" y="5904" width="98" height="34" rx="17" fill="url(#cg17)"/>
+  <text x="1197.0" y="5926" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">5 Skills</text>
+<line x1="84" y1="5956" x2="1246" y2="5956" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="5970.0" width="159" height="42" rx="21" fill="#1b2438" stroke="url(#cg17)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="5991.0" r="4.2" fill="url(#cg17)"/>
+  <text x="118.0" y="5996.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">YouTube SEO</text>
+
+  <rect x="255.0" y="5970.0" width="207" height="42" rx="21" fill="#1b2438" stroke="url(#cg17)" stroke-width="1.1"/>
+  <circle cx="275.0" cy="5991.0" r="4.2" fill="url(#cg17)"/>
+  <text x="289.0" y="5996.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Keyword Research</text>
+
+  <rect x="474.0" y="5970.0" width="226" height="42" rx="21" fill="#1b2438" stroke="url(#cg17)" stroke-width="1.1"/>
+  <circle cx="494.0" cy="5991.0" r="4.2" fill="url(#cg17)"/>
+  <text x="508.0" y="5996.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Prompt Engineering</text>
+
+  <rect x="712.0" y="5970.0" width="198" height="42" rx="21" fill="#1b2438" stroke="url(#cg17)" stroke-width="1.1"/>
+  <circle cx="732.0" cy="5991.0" r="4.2" fill="url(#cg17)"/>
+  <text x="746.0" y="5996.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Content Writing</text>
+
+  <rect x="922.0" y="5970.0" width="265" height="42" rx="21" fill="#1b2438" stroke="url(#cg17)" stroke-width="1.1"/>
+  <circle cx="942.0" cy="5991.0" r="4.2" fill="url(#cg17)"/>
+  <text x="956.0" y="5996.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Thumbnail Optimization</text>
+
+  <line x1="84" y1="6024" x2="1246" y2="6024" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="6048" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg17)" letter-spacing="2.5">CREATE • RANK • GROW</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="6148" width="1230" height="280" rx="26" fill="#131a2e" stroke="url(#cg18)" stroke-width="1.6"/>
+    <rect x="50" y="6148" width="1230" height="280" rx="26" fill="url(#cg18)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="6150" width="1226" height="4" rx="2" fill="url(#cg18)" opacity="0.7"/>
+
+  <circle cx="112" cy="6194" r="28" fill="url(#cg18)" opacity="0.14"/>
+  <text x="112" y="6203" text-anchor="middle" font-size="26">📚</text>
+  <text x="162" y="6201" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">COMPUTER SCIENCE</text>
+
+  <rect x="1148" y="6174" width="98" height="34" rx="17" fill="url(#cg18)"/>
+  <text x="1197.0" y="6196" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">8 Topics</text>
+<line x1="84" y1="6226" x2="1246" y2="6226" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="6240.0" width="198" height="42" rx="21" fill="#1b2438" stroke="url(#cg18)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="6261.0" r="4.2" fill="url(#cg18)"/>
+  <text x="118.0" y="6266.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Data Structures</text>
+
+  <rect x="294.0" y="6240.0" width="150" height="42" rx="21" fill="#1b2438" stroke="url(#cg18)" stroke-width="1.1"/>
+  <circle cx="314.0" cy="6261.0" r="4.2" fill="url(#cg18)"/>
+  <text x="328.0" y="6266.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Algorithms</text>
+
+  <rect x="456.0" y="6240.0" width="370" height="42" rx="21" fill="#1b2438" stroke="url(#cg18)" stroke-width="1.1"/>
+  <circle cx="476.0" cy="6261.0" r="4.2" fill="url(#cg18)"/>
+  <text x="490.0" y="6266.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Object-Oriented Programming (OOP)</text>
+
+  <rect x="838.0" y="6240.0" width="370" height="42" rx="21" fill="#1b2438" stroke="url(#cg18)" stroke-width="1.1"/>
+  <circle cx="858.0" cy="6261.0" r="4.2" fill="url(#cg18)"/>
+  <text x="872.0" y="6266.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Database Management System (DBMS)</text>
+
+  <rect x="84.0" y="6296.0" width="217" height="42" rx="21" fill="#1b2438" stroke="url(#cg18)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="6317.0" r="4.2" fill="url(#cg18)"/>
+  <text x="118.0" y="6322.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Operating Systems</text>
+
+  <rect x="313.0" y="6296.0" width="217" height="42" rx="21" fill="#1b2438" stroke="url(#cg18)" stroke-width="1.1"/>
+  <circle cx="333.0" cy="6317.0" r="4.2" fill="url(#cg18)"/>
+  <text x="347.0" y="6322.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Computer Networks</text>
+
+  <rect x="542.0" y="6296.0" width="246" height="42" rx="21" fill="#1b2438" stroke="url(#cg18)" stroke-width="1.1"/>
+  <circle cx="562.0" cy="6317.0" r="4.2" fill="url(#cg18)"/>
+  <text x="576.0" y="6322.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Software Engineering</text>
+
+  <rect x="800.0" y="6296.0" width="274" height="42" rx="21" fill="#1b2438" stroke="url(#cg18)" stroke-width="1.1"/>
+  <circle cx="820.0" cy="6317.0" r="4.2" fill="url(#cg18)"/>
+  <text x="834.0" y="6322.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Networking Fundamentals</text>
+
+  <line x1="84" y1="6350" x2="1246" y2="6350" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="6374" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg18)" letter-spacing="2.5">THINK • DESIGN • BUILD</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="50" y="6474" width="1230" height="280" rx="26" fill="#131a2e" stroke="url(#cg19)" stroke-width="1.6"/>
+    <rect x="50" y="6474" width="1230" height="280" rx="26" fill="url(#cg19)" opacity="0.06"/>
+  </g>
+  <rect x="52" y="6476" width="1226" height="4" rx="2" fill="url(#cg19)" opacity="0.7"/>
+
+  <circle cx="112" cy="6520" r="28" fill="url(#cg19)" opacity="0.14"/>
+  <text x="112" y="6529" text-anchor="middle" font-size="26">⌨️</text>
+  <text x="162" y="6527" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="26" fill="#f1f5f9" letter-spacing="0.5">ADDITIONAL SKILLS</text>
+
+  <rect x="1148" y="6500" width="98" height="34" rx="17" fill="url(#cg19)"/>
+  <text x="1197.0" y="6522" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffffff">8 Skills</text>
+<line x1="84" y1="6552" x2="1246" y2="6552" stroke="#293349" stroke-width="1.4"/>
+  <rect x="84.0" y="6566.0" width="342" height="42" rx="21" fill="#1b2438" stroke="url(#cg19)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="6587.0" r="4.2" fill="url(#cg19)"/>
+  <text x="118.0" y="6592.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Typing Speed: 35 WPM (English)</text>
+
+  <rect x="438.0" y="6566.0" width="198" height="42" rx="21" fill="#1b2438" stroke="url(#cg19)" stroke-width="1.1"/>
+  <circle cx="458.0" cy="6587.0" r="4.2" fill="url(#cg19)"/>
+  <text x="472.0" y="6592.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Problem Solving</text>
+
+  <rect x="648.0" y="6566.0" width="226" height="42" rx="21" fill="#1b2438" stroke="url(#cg19)" stroke-width="1.1"/>
+  <circle cx="668.0" cy="6587.0" r="4.2" fill="url(#cg19)"/>
+  <text x="682.0" y="6592.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Team Collaboration</text>
+
+  <rect x="886.0" y="6566.0" width="198" height="42" rx="21" fill="#1b2438" stroke="url(#cg19)" stroke-width="1.1"/>
+  <circle cx="906.0" cy="6587.0" r="4.2" fill="url(#cg19)"/>
+  <text x="920.0" y="6592.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Time Management</text>
+
+  <rect x="84.0" y="6622.0" width="178" height="42" rx="21" fill="#1b2438" stroke="url(#cg19)" stroke-width="1.1"/>
+  <circle cx="104.0" cy="6643.0" r="4.2" fill="url(#cg19)"/>
+  <text x="118.0" y="6648.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Communication</text>
+
+  <rect x="274.0" y="6622.0" width="140" height="42" rx="21" fill="#1b2438" stroke="url(#cg19)" stroke-width="1.1"/>
+  <circle cx="294.0" cy="6643.0" r="4.2" fill="url(#cg19)"/>
+  <text x="308.0" y="6648.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Debugging</text>
+
+  <rect x="426.0" y="6622.0" width="178" height="42" rx="21" fill="#1b2438" stroke="url(#cg19)" stroke-width="1.1"/>
+  <circle cx="446.0" cy="6643.0" r="4.2" fill="url(#cg19)"/>
+  <text x="460.0" y="6648.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Documentation</text>
+
+  <rect x="616.0" y="6622.0" width="226" height="42" rx="21" fill="#1b2438" stroke="url(#cg19)" stroke-width="1.1"/>
+  <circle cx="636.0" cy="6643.0" r="4.2" fill="url(#cg19)"/>
+  <text x="650.0" y="6648.5" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Project Management</text>
+
+  <line x1="84" y1="6676" x2="1246" y2="6676" stroke="#293349" stroke-width="1"/>
+  <text x="665.0" y="6700" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="url(#cg19)" letter-spacing="2.5">SKILLS BUILD SUCCESS</text>
+<g><line x1="1374" y1="970.0" x2="1374" y2="6614.0" stroke="#4338ca" stroke-width="2" opacity="0.6"/><circle cx="1374" cy="970.0" r="6" fill="#06b6d4"/><text x="1390" y="974.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">01</text><circle cx="1374" cy="1296.0" r="6" fill="#22d3ee"/><text x="1390" y="1300.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">02</text><circle cx="1374" cy="1622.0" r="6" fill="#10b981"/><text x="1390" y="1626.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">03</text><circle cx="1374" cy="1920.0" r="6" fill="#6366f1"/><text x="1390" y="1924.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">04</text><circle cx="1374" cy="2218.0" r="6" fill="#ec4899"/><text x="1390" y="2222.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">05</text><circle cx="1374" cy="2572.0" r="6" fill="#3b82f6"/><text x="1390" y="2576.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">06</text><circle cx="1374" cy="3010.0" r="6" fill="#06b6d4"/><text x="1390" y="3014.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">07</text><circle cx="1374" cy="3420.0" r="6" fill="#ec4899"/><text x="1390" y="3424.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">08</text><circle cx="1374" cy="3718.0" r="6" fill="#f97316"/><text x="1390" y="3722.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">09</text><circle cx="1374" cy="4016.0" r="6" fill="#3b82f6"/><text x="1390" y="4020.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">10</text><circle cx="1374" cy="4314.0" r="6" fill="#2563eb"/><text x="1390" y="4318.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">11</text><circle cx="1374" cy="4584.0" r="6" fill="#3b82f6"/><text x="1390" y="4588.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">12</text><circle cx="1374" cy="4854.0" r="6" fill="#14b8a6"/><text x="1390" y="4858.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">13</text><circle cx="1374" cy="5124.0" r="6" fill="#8b5cf6"/><text x="1390" y="5128.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">14</text><circle cx="1374" cy="5422.0" r="6" fill="#f97316"/><text x="1390" y="5426.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">15</text><circle cx="1374" cy="5720.0" r="6" fill="#ec4899"/><text x="1390" y="5724.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">16</text><circle cx="1374" cy="5990.0" r="6" fill="#f43f5e"/><text x="1390" y="5994.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">17</text><circle cx="1374" cy="6288.0" r="6" fill="#3b82f6"/><text x="1390" y="6292.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">18</text><circle cx="1374" cy="6614.0" r="6" fill="#22c55e"/><text x="1390" y="6618.0" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#6b7280" opacity="0">19</text></g><rect x="0" y="6820" width="1400" height="420" fill="url(#footerGrad)"/>
+  <polygon points="0,7240 180,7100 340,7200 480,7070 680,7210 900,7090 1120,7190 1300,7080 1400,7180 1400,7240" fill="#1e1b4b" opacity="0.7"/>
+  <polygon points="0,7240 120,7170 300,7220 520,7150 760,7220 1000,7160 1200,7220 1400,7180 1400,7240" fill="#312e81" opacity="0.85"/>
+<g><circle cx="913.9" cy="6885.6" r="1.7" fill="#e0e7ff" opacity="0.37"/><circle cx="39.4" cy="6966.2" r="1.8" fill="#e0e7ff" opacity="0.56"/><circle cx="1289.7" cy="6896.4" r="2.0" fill="#e0e7ff" opacity="0.71"/><circle cx="307.0" cy="6872.7" r="1.4" fill="#e0e7ff" opacity="0.42"/><circle cx="817.6" cy="6873.7" r="1.5" fill="#e0e7ff" opacity="0.37"/><circle cx="1257.6" cy="6886.0" r="1.5" fill="#e0e7ff" opacity="0.59"/><circle cx="1249.8" cy="6894.7" r="2.1" fill="#e0e7ff" opacity="0.55"/><circle cx="743.3" cy="6908.1" r="1.0" fill="#e0e7ff" opacity="0.52"/><circle cx="269.0" cy="6840.5" r="2.0" fill="#e0e7ff" opacity="0.39"/><circle cx="664.0" cy="6934.3" r="1.7" fill="#e0e7ff" opacity="0.46"/><circle cx="725.0" cy="6912.2" r="1.9" fill="#e0e7ff" opacity="0.35"/><circle cx="782.0" cy="6872.3" r="1.3" fill="#e0e7ff" opacity="0.69"/><circle cx="710.5" cy="6913.0" r="1.9" fill="#e0e7ff" opacity="0.76"/><circle cx="622.8" cy="6919.6" r="1.6" fill="#e0e7ff" opacity="0.56"/><circle cx="962.1" cy="6898.8" r="1.6" fill="#e0e7ff" opacity="0.54"/><circle cx="1300.4" cy="6930.9" r="2.1" fill="#e0e7ff" opacity="0.77"/><circle cx="373.0" cy="6912.7" r="2.1" fill="#e0e7ff" opacity="0.72"/><circle cx="206.5" cy="6855.8" r="1.5" fill="#e0e7ff" opacity="0.34"/><circle cx="347.3" cy="6849.5" r="1.8" fill="#e0e7ff" opacity="0.69"/><circle cx="1240.0" cy="6860.1" r="1.9" fill="#e0e7ff" opacity="0.63"/><circle cx="214.5" cy="6954.8" r="2.2" fill="#e0e7ff" opacity="0.41"/><circle cx="1315.4" cy="6891.8" r="1.6" fill="#e0e7ff" opacity="0.79"/><circle cx="1152.1" cy="6861.0" r="1.5" fill="#e0e7ff" opacity="0.56"/><circle cx="481.2" cy="6865.4" r="1.4" fill="#e0e7ff" opacity="0.66"/><circle cx="46.5" cy="6912.0" r="1.5" fill="#e0e7ff" opacity="0.31"/><circle cx="470.8" cy="6921.1" r="1.6" fill="#e0e7ff" opacity="0.33"/><circle cx="1359.7" cy="6942.5" r="2.2" fill="#e0e7ff" opacity="0.35"/><circle cx="381.2" cy="6845.1" r="1.9" fill="#e0e7ff" opacity="0.44"/><circle cx="196.2" cy="6894.9" r="2.1" fill="#e0e7ff" opacity="0.71"/><circle cx="371.7" cy="6859.4" r="2.1" fill="#e0e7ff" opacity="0.59"/></g>
+  <circle cx="130" cy="6910" r="46" fill="#111827" stroke="url(#techText)" stroke-width="2" opacity="0.9"/>
+  <path transform="translate(104,6884) scale(0.054)" fill="#ffffff"
+    d="M480 0C214.8 0 0 214.8 0 480c0 212.1 137.5 392 328.2 455.5 24 4.4 32.8-10.4 32.8-23.1 0-11.4-.4-41.6-.6-81.7-133.5 29-161.7-64.3-161.7-64.3-21.8-55.5-53.3-70.3-53.3-70.3-43.6-29.8 3.3-29.2 3.3-29.2 48.2 3.4 73.6 49.5 73.6 49.5 42.8 73.4 112.4 52.2 139.8 39.9 4.3-31 16.8-52.2 30.5-64.2-106.6-12.1-218.7-53.3-218.7-237.2 0-52.4 18.7-95.2 49.4-128.8-5-12.1-21.4-60.8 4.7-126.8 0 0 40.3-12.9 132 49.2 38.3-10.6 79.4-16 120.2-16.2 40.8.2 81.9 5.6 120.3 16.2 91.6-62.1 131.9-49.2 131.9-49.2 26.2 66 9.7 114.7 4.8 126.8 30.8 33.6 49.3 76.4 49.3 128.8 0 184.4-112.3 225-219.2 236.9 17.2 14.9 32.6 44.1 32.6 88.9 0 64.2-.6 116-.6 131.8 0 12.8 8.7 27.8 33.1 23.1C822.6 872 960 692.1 960 480 960 214.8 745.2 0 480 0z"/>
+
+  <g transform="translate(1240,6940) rotate(45)">
+    <ellipse cx="0" cy="0" rx="14" ry="34" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1.2"/>
+    <polygon points="0,-34 -12,-14 12,-14" fill="#f43f5e"/>
+    <polygon points="-14,20 -22,40 -6,28" fill="#f43f5e"/>
+    <polygon points="14,20 22,40 6,28" fill="#f43f5e"/>
+    <circle cx="0" cy="-4" r="6" fill="#22d3ee"/>
+    <polygon points="-6,32 0,52 6,32" fill="#fbbf24" opacity="0.85"/>
+  </g>
+
+  <line x1="440.0" y1="7000" x2="960.0" y2="7000" stroke="url(#techText)" stroke-width="1.5" opacity="0.6"/>
+  <text x="700.0" y="7045" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="24" fill="#e0e7ff" letter-spacing="4">CODE &#8226; BUILD &#8226; LEARN &#8226; INNOVATE</text>
+  <text x="700.0" y="7082" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#a5b4fc" letter-spacing="2">GitHub &#8226; Open Source &#8226; Continuous Learning</text>
+  <text x="700.0" y="7132" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-style="italic" font-weight="600" font-size="22" fill="url(#arsenalText)">"Better Tools. Better Code. Better Future."</text>
+  <line x1="440.0" y1="7170" x2="960.0" y2="7170" stroke="url(#arsenalText)" stroke-width="1.5" opacity="0.6"/>
+  <text x="700.0" y="7216" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#818cf8" opacity="0.9">Keep Learning &#8226; Keep Building &#8226; SudarshanBadli</text>
+
+</svg>
